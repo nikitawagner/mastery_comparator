@@ -6,7 +6,16 @@ urls = (
 )
 
 class Index:
+    def OPTIONS(self):
+        # OPTIONS method is used to handle CORS preflight requests
+        # You should include this if your frontend makes use of preflight requests
+        web.header('Access-Control-Allow-Origin', '*')
+        web.header('Access-Control-Allow-Methods', 'POST, OPTIONS')
+        web.header('Access-Control-Allow-Headers', 'Content-Type')
+        return
+    
     def POST(self):
+        web.header('Access-Control-Allow-Origin', '*')  
         data = web.data()
         print(data)
         return json.dumps({"status": "success"})
