@@ -1,0 +1,2947 @@
+@prefix iut: <http://www.iut-orsay.fr/Wagner/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+iut:austria_1999 iut:accident "1079.0"^^xsd:float ;
+    iut:annee 1999 ;
+    iut:pays "Austria"^^xsd:string .
+
+iut:austria_2000 iut:accident "976.0"^^xsd:float ;
+    iut:annee 2000 ;
+    iut:pays "Austria"^^xsd:string .
+
+iut:austria_2001 iut:accident "958.0"^^xsd:float ;
+    iut:annee 2001 ;
+    iut:pays "Austria"^^xsd:string .
+
+iut:austria_2002 iut:accident "956.0"^^xsd:float ;
+    iut:annee 2002 ;
+    iut:pays "Austria"^^xsd:string .
+
+iut:austria_2003 iut:accident "931.0"^^xsd:float ;
+    iut:annee 2003 ;
+    iut:pays "Austria"^^xsd:string .
+
+iut:austria_2004 iut:accident "878.0"^^xsd:float ;
+    iut:annee 2004 ;
+    iut:pays "Austria"^^xsd:string .
+
+iut:austria_2005 iut:accident "768.0"^^xsd:float ;
+    iut:annee 2005 ;
+    iut:pays "Austria"^^xsd:string .
+
+iut:austria_2006 iut:accident "730.0"^^xsd:float ;
+    iut:annee 2006 ;
+    iut:pays "Austria"^^xsd:string .
+
+iut:austria_2007 iut:accident "691.0"^^xsd:float ;
+    iut:annee 2007 ;
+    iut:pays "Austria"^^xsd:string .
+
+iut:austria_2008 iut:accident "679.0"^^xsd:float ;
+    iut:annee 2008 ;
+    iut:pays "Austria"^^xsd:string .
+
+iut:austria_2009 iut:accident "633.0"^^xsd:float ;
+    iut:annee 2009 ;
+    iut:pays "Austria"^^xsd:string .
+
+iut:austria_2010 iut:accident "552.0"^^xsd:float ;
+    iut:annee 2010 ;
+    iut:pays "Austria"^^xsd:string .
+
+iut:austria_2011 iut:accident "523.0"^^xsd:float ;
+    iut:annee 2011 ;
+    iut:pays "Austria"^^xsd:string .
+
+iut:austria_2012 iut:accident "531.0"^^xsd:float ;
+    iut:annee 2012 ;
+    iut:pays "Austria"^^xsd:string .
+
+iut:austria_2013 iut:accident "455.0"^^xsd:float ;
+    iut:annee 2013 ;
+    iut:pays "Austria"^^xsd:string .
+
+iut:austria_2014 iut:accident "430.0"^^xsd:float ;
+    iut:annee 2014 ;
+    iut:pays "Austria"^^xsd:string .
+
+iut:austria_2015 iut:accident "479.0"^^xsd:float ;
+    iut:annee 2015 ;
+    iut:pays "Austria"^^xsd:string .
+
+iut:austria_2016 iut:accident "432.0"^^xsd:float ;
+    iut:annee 2016 ;
+    iut:pays "Austria"^^xsd:string .
+
+iut:austria_2017 iut:accident "414.0"^^xsd:float ;
+    iut:annee 2017 ;
+    iut:pays "Austria"^^xsd:string .
+
+iut:austria_2018 iut:accident "409.0"^^xsd:float ;
+    iut:annee 2018 ;
+    iut:pays "Austria"^^xsd:string .
+
+iut:austria_2019 iut:accident "416.0"^^xsd:float ;
+    iut:annee 2019 ;
+    iut:pays "Austria"^^xsd:string .
+
+iut:austria_2020 iut:accident "344.0"^^xsd:float ;
+    iut:annee 2020 ;
+    iut:pays "Austria"^^xsd:string .
+
+iut:austria_2021 iut:accident "362.0"^^xsd:float ;
+    iut:annee 2021 ;
+    iut:pays "Austria"^^xsd:string .
+
+iut:belgium_1999 iut:accident "1397.0"^^xsd:float ;
+    iut:annee 1999 ;
+    iut:pays "Belgium"^^xsd:string .
+
+iut:belgium_2000 iut:accident "1470.0"^^xsd:float ;
+    iut:annee 2000 ;
+    iut:pays "Belgium"^^xsd:string .
+
+iut:belgium_2001 iut:accident "1486.0"^^xsd:float ;
+    iut:annee 2001 ;
+    iut:pays "Belgium"^^xsd:string .
+
+iut:belgium_2002 iut:accident "1306.0"^^xsd:float ;
+    iut:annee 2002 ;
+    iut:pays "Belgium"^^xsd:string .
+
+iut:belgium_2003 iut:accident "1213.0"^^xsd:float ;
+    iut:annee 2003 ;
+    iut:pays "Belgium"^^xsd:string .
+
+iut:belgium_2004 iut:accident "1162.0"^^xsd:float ;
+    iut:annee 2004 ;
+    iut:pays "Belgium"^^xsd:string .
+
+iut:belgium_2005 iut:accident "1089.0"^^xsd:float ;
+    iut:annee 2005 ;
+    iut:pays "Belgium"^^xsd:string .
+
+iut:belgium_2006 iut:accident "1069.0"^^xsd:float ;
+    iut:annee 2006 ;
+    iut:pays "Belgium"^^xsd:string .
+
+iut:belgium_2007 iut:accident "1071.0"^^xsd:float ;
+    iut:annee 2007 ;
+    iut:pays "Belgium"^^xsd:string .
+
+iut:belgium_2008 iut:accident "944.0"^^xsd:float ;
+    iut:annee 2008 ;
+    iut:pays "Belgium"^^xsd:string .
+
+iut:belgium_2009 iut:accident "944.0"^^xsd:float ;
+    iut:annee 2009 ;
+    iut:pays "Belgium"^^xsd:string .
+
+iut:belgium_2010 iut:accident "850.0"^^xsd:float ;
+    iut:annee 2010 ;
+    iut:pays "Belgium"^^xsd:string .
+
+iut:belgium_2011 iut:accident "884.0"^^xsd:float ;
+    iut:annee 2011 ;
+    iut:pays "Belgium"^^xsd:string .
+
+iut:belgium_2012 iut:accident "827.0"^^xsd:float ;
+    iut:annee 2012 ;
+    iut:pays "Belgium"^^xsd:string .
+
+iut:belgium_2013 iut:accident "764.0"^^xsd:float ;
+    iut:annee 2013 ;
+    iut:pays "Belgium"^^xsd:string .
+
+iut:belgium_2014 iut:accident "745.0"^^xsd:float ;
+    iut:annee 2014 ;
+    iut:pays "Belgium"^^xsd:string .
+
+iut:belgium_2015 iut:accident "762.0"^^xsd:float ;
+    iut:annee 2015 ;
+    iut:pays "Belgium"^^xsd:string .
+
+iut:belgium_2016 iut:accident "670.0"^^xsd:float ;
+    iut:annee 2016 ;
+    iut:pays "Belgium"^^xsd:string .
+
+iut:belgium_2017 iut:accident "609.0"^^xsd:float ;
+    iut:annee 2017 ;
+    iut:pays "Belgium"^^xsd:string .
+
+iut:belgium_2018 iut:accident "604.0"^^xsd:float ;
+    iut:annee 2018 ;
+    iut:pays "Belgium"^^xsd:string .
+
+iut:belgium_2019 iut:accident "646.0"^^xsd:float ;
+    iut:annee 2019 ;
+    iut:pays "Belgium"^^xsd:string .
+
+iut:belgium_2020 iut:accident "499.0"^^xsd:float ;
+    iut:annee 2020 ;
+    iut:pays "Belgium"^^xsd:string .
+
+iut:belgium_2021 iut:accident "516.0"^^xsd:float ;
+    iut:annee 2021 ;
+    iut:pays "Belgium"^^xsd:string .
+
+iut:bulgaria_1999 iut:accident "1047.0"^^xsd:float ;
+    iut:annee 1999 ;
+    iut:pays "Bulgaria"^^xsd:string .
+
+iut:bulgaria_2000 iut:accident "1012.0"^^xsd:float ;
+    iut:annee 2000 ;
+    iut:pays "Bulgaria"^^xsd:string .
+
+iut:bulgaria_2001 iut:accident "1010.9999999999999"^^xsd:float ;
+    iut:annee 2001 ;
+    iut:pays "Bulgaria"^^xsd:string .
+
+iut:bulgaria_2002 iut:accident "959.0"^^xsd:float ;
+    iut:annee 2002 ;
+    iut:pays "Bulgaria"^^xsd:string .
+
+iut:bulgaria_2003 iut:accident "960.0"^^xsd:float ;
+    iut:annee 2003 ;
+    iut:pays "Bulgaria"^^xsd:string .
+
+iut:bulgaria_2004 iut:accident "943.0"^^xsd:float ;
+    iut:annee 2004 ;
+    iut:pays "Bulgaria"^^xsd:string .
+
+iut:bulgaria_2005 iut:accident "957.0"^^xsd:float ;
+    iut:annee 2005 ;
+    iut:pays "Bulgaria"^^xsd:string .
+
+iut:bulgaria_2006 iut:accident "1043.0"^^xsd:float ;
+    iut:annee 2006 ;
+    iut:pays "Bulgaria"^^xsd:string .
+
+iut:bulgaria_2007 iut:accident "1006.0"^^xsd:float ;
+    iut:annee 2007 ;
+    iut:pays "Bulgaria"^^xsd:string .
+
+iut:bulgaria_2008 iut:accident "1061.0"^^xsd:float ;
+    iut:annee 2008 ;
+    iut:pays "Bulgaria"^^xsd:string .
+
+iut:bulgaria_2009 iut:accident "901.0"^^xsd:float ;
+    iut:annee 2009 ;
+    iut:pays "Bulgaria"^^xsd:string .
+
+iut:bulgaria_2010 iut:accident "776.0"^^xsd:float ;
+    iut:annee 2010 ;
+    iut:pays "Bulgaria"^^xsd:string .
+
+iut:bulgaria_2011 iut:accident "656.0"^^xsd:float ;
+    iut:annee 2011 ;
+    iut:pays "Bulgaria"^^xsd:string .
+
+iut:bulgaria_2012 iut:accident "601.0"^^xsd:float ;
+    iut:annee 2012 ;
+    iut:pays "Bulgaria"^^xsd:string .
+
+iut:bulgaria_2013 iut:accident "601.0"^^xsd:float ;
+    iut:annee 2013 ;
+    iut:pays "Bulgaria"^^xsd:string .
+
+iut:bulgaria_2014 iut:accident "661.0"^^xsd:float ;
+    iut:annee 2014 ;
+    iut:pays "Bulgaria"^^xsd:string .
+
+iut:bulgaria_2015 iut:accident "708.0"^^xsd:float ;
+    iut:annee 2015 ;
+    iut:pays "Bulgaria"^^xsd:string .
+
+iut:bulgaria_2016 iut:accident "708.0"^^xsd:float ;
+    iut:annee 2016 ;
+    iut:pays "Bulgaria"^^xsd:string .
+
+iut:bulgaria_2017 iut:accident "682.0"^^xsd:float ;
+    iut:annee 2017 ;
+    iut:pays "Bulgaria"^^xsd:string .
+
+iut:bulgaria_2018 iut:accident "610.0"^^xsd:float ;
+    iut:annee 2018 ;
+    iut:pays "Bulgaria"^^xsd:string .
+
+iut:bulgaria_2019 iut:accident "628.0"^^xsd:float ;
+    iut:annee 2019 ;
+    iut:pays "Bulgaria"^^xsd:string .
+
+iut:bulgaria_2020 iut:accident "463.0"^^xsd:float ;
+    iut:annee 2020 ;
+    iut:pays "Bulgaria"^^xsd:string .
+
+iut:bulgaria_2021 iut:accident "561.0"^^xsd:float ;
+    iut:annee 2021 ;
+    iut:pays "Bulgaria"^^xsd:string .
+
+iut:croatia_1999 iut:accident "662.0"^^xsd:float ;
+    iut:annee 1999 ;
+    iut:pays "Croatia"^^xsd:string .
+
+iut:croatia_2000 iut:accident "655.0"^^xsd:float ;
+    iut:annee 2000 ;
+    iut:pays "Croatia"^^xsd:string .
+
+iut:croatia_2001 iut:accident "647.0"^^xsd:float ;
+    iut:annee 2001 ;
+    iut:pays "Croatia"^^xsd:string .
+
+iut:croatia_2002 iut:accident "627.0"^^xsd:float ;
+    iut:annee 2002 ;
+    iut:pays "Croatia"^^xsd:string .
+
+iut:croatia_2003 iut:accident "701.0"^^xsd:float ;
+    iut:annee 2003 ;
+    iut:pays "Croatia"^^xsd:string .
+
+iut:croatia_2004 iut:accident "608.0"^^xsd:float ;
+    iut:annee 2004 ;
+    iut:pays "Croatia"^^xsd:string .
+
+iut:croatia_2005 iut:accident "597.0"^^xsd:float ;
+    iut:annee 2005 ;
+    iut:pays "Croatia"^^xsd:string .
+
+iut:croatia_2006 iut:accident "614.0"^^xsd:float ;
+    iut:annee 2006 ;
+    iut:pays "Croatia"^^xsd:string .
+
+iut:croatia_2007 iut:accident "619.0"^^xsd:float ;
+    iut:annee 2007 ;
+    iut:pays "Croatia"^^xsd:string .
+
+iut:croatia_2008 iut:accident "664.0"^^xsd:float ;
+    iut:annee 2008 ;
+    iut:pays "Croatia"^^xsd:string .
+
+iut:croatia_2009 iut:accident "548.0"^^xsd:float ;
+    iut:annee 2009 ;
+    iut:pays "Croatia"^^xsd:string .
+
+iut:croatia_2010 iut:accident "426.0"^^xsd:float ;
+    iut:annee 2010 ;
+    iut:pays "Croatia"^^xsd:string .
+
+iut:croatia_2011 iut:accident "418.0"^^xsd:float ;
+    iut:annee 2011 ;
+    iut:pays "Croatia"^^xsd:string .
+
+iut:croatia_2012 iut:accident "393.0"^^xsd:float ;
+    iut:annee 2012 ;
+    iut:pays "Croatia"^^xsd:string .
+
+iut:croatia_2013 iut:accident "368.0"^^xsd:float ;
+    iut:annee 2013 ;
+    iut:pays "Croatia"^^xsd:string .
+
+iut:croatia_2014 iut:accident "308.0"^^xsd:float ;
+    iut:annee 2014 ;
+    iut:pays "Croatia"^^xsd:string .
+
+iut:croatia_2015 iut:accident "348.0"^^xsd:float ;
+    iut:annee 2015 ;
+    iut:pays "Croatia"^^xsd:string .
+
+iut:croatia_2016 iut:accident "307.0"^^xsd:float ;
+    iut:annee 2016 ;
+    iut:pays "Croatia"^^xsd:string .
+
+iut:croatia_2017 iut:accident "331.0"^^xsd:float ;
+    iut:annee 2017 ;
+    iut:pays "Croatia"^^xsd:string .
+
+iut:croatia_2018 iut:accident "317.0"^^xsd:float ;
+    iut:annee 2018 ;
+    iut:pays "Croatia"^^xsd:string .
+
+iut:croatia_2019 iut:accident "297.0"^^xsd:float ;
+    iut:annee 2019 ;
+    iut:pays "Croatia"^^xsd:string .
+
+iut:croatia_2020 iut:accident "237.0"^^xsd:float ;
+    iut:annee 2020 ;
+    iut:pays "Croatia"^^xsd:string .
+
+iut:croatia_2021 iut:accident "292.0"^^xsd:float ;
+    iut:annee 2021 ;
+    iut:pays "Croatia"^^xsd:string .
+
+iut:cyprus_1999 iut:accident "113.0"^^xsd:float ;
+    iut:annee 1999 ;
+    iut:pays "Cyprus"^^xsd:string .
+
+iut:cyprus_2000 iut:accident "111.0"^^xsd:float ;
+    iut:annee 2000 ;
+    iut:pays "Cyprus"^^xsd:string .
+
+iut:cyprus_2001 iut:accident "98.0"^^xsd:float ;
+    iut:annee 2001 ;
+    iut:pays "Cyprus"^^xsd:string .
+
+iut:cyprus_2002 iut:accident "94.0"^^xsd:float ;
+    iut:annee 2002 ;
+    iut:pays "Cyprus"^^xsd:string .
+
+iut:cyprus_2003 iut:accident "97.0"^^xsd:float ;
+    iut:annee 2003 ;
+    iut:pays "Cyprus"^^xsd:string .
+
+iut:cyprus_2004 iut:accident "117.0"^^xsd:float ;
+    iut:annee 2004 ;
+    iut:pays "Cyprus"^^xsd:string .
+
+iut:cyprus_2005 iut:accident "102.0"^^xsd:float ;
+    iut:annee 2005 ;
+    iut:pays "Cyprus"^^xsd:string .
+
+iut:cyprus_2006 iut:accident "86.0"^^xsd:float ;
+    iut:annee 2006 ;
+    iut:pays "Cyprus"^^xsd:string .
+
+iut:cyprus_2007 iut:accident "89.0"^^xsd:float ;
+    iut:annee 2007 ;
+    iut:pays "Cyprus"^^xsd:string .
+
+iut:cyprus_2008 iut:accident "82.0"^^xsd:float ;
+    iut:annee 2008 ;
+    iut:pays "Cyprus"^^xsd:string .
+
+iut:cyprus_2009 iut:accident "71.0"^^xsd:float ;
+    iut:annee 2009 ;
+    iut:pays "Cyprus"^^xsd:string .
+
+iut:cyprus_2010 iut:accident "60.0"^^xsd:float ;
+    iut:annee 2010 ;
+    iut:pays "Cyprus"^^xsd:string .
+
+iut:cyprus_2011 iut:accident "71.0"^^xsd:float ;
+    iut:annee 2011 ;
+    iut:pays "Cyprus"^^xsd:string .
+
+iut:cyprus_2012 iut:accident "51.0"^^xsd:float ;
+    iut:annee 2012 ;
+    iut:pays "Cyprus"^^xsd:string .
+
+iut:cyprus_2013 iut:accident "44.0"^^xsd:float ;
+    iut:annee 2013 ;
+    iut:pays "Cyprus"^^xsd:string .
+
+iut:cyprus_2014 iut:accident "45.0"^^xsd:float ;
+    iut:annee 2014 ;
+    iut:pays "Cyprus"^^xsd:string .
+
+iut:cyprus_2015 iut:accident "57.0"^^xsd:float ;
+    iut:annee 2015 ;
+    iut:pays "Cyprus"^^xsd:string .
+
+iut:cyprus_2016 iut:accident "46.0"^^xsd:float ;
+    iut:annee 2016 ;
+    iut:pays "Cyprus"^^xsd:string .
+
+iut:cyprus_2017 iut:accident "53.0"^^xsd:float ;
+    iut:annee 2017 ;
+    iut:pays "Cyprus"^^xsd:string .
+
+iut:cyprus_2018 iut:accident "49.0"^^xsd:float ;
+    iut:annee 2018 ;
+    iut:pays "Cyprus"^^xsd:string .
+
+iut:cyprus_2019 iut:accident "52.0"^^xsd:float ;
+    iut:annee 2019 ;
+    iut:pays "Cyprus"^^xsd:string .
+
+iut:cyprus_2020 iut:accident "48.0"^^xsd:float ;
+    iut:annee 2020 ;
+    iut:pays "Cyprus"^^xsd:string .
+
+iut:cyprus_2021 iut:accident "45.0"^^xsd:float ;
+    iut:annee 2021 ;
+    iut:pays "Cyprus"^^xsd:string .
+
+iut:czechia_1999 iut:accident "1455.0"^^xsd:float ;
+    iut:annee 1999 ;
+    iut:pays "Czechia"^^xsd:string .
+
+iut:czechia_2000 iut:accident "1486.0"^^xsd:float ;
+    iut:annee 2000 ;
+    iut:pays "Czechia"^^xsd:string .
+
+iut:czechia_2001 iut:accident "1333.0"^^xsd:float ;
+    iut:annee 2001 ;
+    iut:pays "Czechia"^^xsd:string .
+
+iut:czechia_2002 iut:accident "1430.0"^^xsd:float ;
+    iut:annee 2002 ;
+    iut:pays "Czechia"^^xsd:string .
+
+iut:czechia_2003 iut:accident "1447.0"^^xsd:float ;
+    iut:annee 2003 ;
+    iut:pays "Czechia"^^xsd:string .
+
+iut:czechia_2004 iut:accident "1382.0"^^xsd:float ;
+    iut:annee 2004 ;
+    iut:pays "Czechia"^^xsd:string .
+
+iut:czechia_2005 iut:accident "1286.0"^^xsd:float ;
+    iut:annee 2005 ;
+    iut:pays "Czechia"^^xsd:string .
+
+iut:czechia_2006 iut:accident "1063.0"^^xsd:float ;
+    iut:annee 2006 ;
+    iut:pays "Czechia"^^xsd:string .
+
+iut:czechia_2007 iut:accident "1221.0"^^xsd:float ;
+    iut:annee 2007 ;
+    iut:pays "Czechia"^^xsd:string .
+
+iut:czechia_2008 iut:accident "1076.0"^^xsd:float ;
+    iut:annee 2008 ;
+    iut:pays "Czechia"^^xsd:string .
+
+iut:czechia_2009 iut:accident "901.0"^^xsd:float ;
+    iut:annee 2009 ;
+    iut:pays "Czechia"^^xsd:string .
+
+iut:czechia_2010 iut:accident "802.0"^^xsd:float ;
+    iut:annee 2010 ;
+    iut:pays "Czechia"^^xsd:string .
+
+iut:czechia_2011 iut:accident "773.0"^^xsd:float ;
+    iut:annee 2011 ;
+    iut:pays "Czechia"^^xsd:string .
+
+iut:czechia_2012 iut:accident "742.0"^^xsd:float ;
+    iut:annee 2012 ;
+    iut:pays "Czechia"^^xsd:string .
+
+iut:czechia_2013 iut:accident "654.0"^^xsd:float ;
+    iut:annee 2013 ;
+    iut:pays "Czechia"^^xsd:string .
+
+iut:czechia_2014 iut:accident "688.0"^^xsd:float ;
+    iut:annee 2014 ;
+    iut:pays "Czechia"^^xsd:string .
+
+iut:czechia_2015 iut:accident "734.0"^^xsd:float ;
+    iut:annee 2015 ;
+    iut:pays "Czechia"^^xsd:string .
+
+iut:czechia_2016 iut:accident "611.0"^^xsd:float ;
+    iut:annee 2016 ;
+    iut:pays "Czechia"^^xsd:string .
+
+iut:czechia_2017 iut:accident "577.0"^^xsd:float ;
+    iut:annee 2017 ;
+    iut:pays "Czechia"^^xsd:string .
+
+iut:czechia_2018 iut:accident "656.0"^^xsd:float ;
+    iut:annee 2018 ;
+    iut:pays "Czechia"^^xsd:string .
+
+iut:czechia_2019 iut:accident "618.0"^^xsd:float ;
+    iut:annee 2019 ;
+    iut:pays "Czechia"^^xsd:string .
+
+iut:czechia_2020 iut:accident "518.0"^^xsd:float ;
+    iut:annee 2020 ;
+    iut:pays "Czechia"^^xsd:string .
+
+iut:czechia_2021 iut:accident "532.0"^^xsd:float ;
+    iut:annee 2021 ;
+    iut:pays "Czechia"^^xsd:string .
+
+iut:denmark_1999 iut:accident "514.0"^^xsd:float ;
+    iut:annee 1999 ;
+    iut:pays "Denmark"^^xsd:string .
+
+iut:denmark_2000 iut:accident "498.0"^^xsd:float ;
+    iut:annee 2000 ;
+    iut:pays "Denmark"^^xsd:string .
+
+iut:denmark_2001 iut:accident "431.0"^^xsd:float ;
+    iut:annee 2001 ;
+    iut:pays "Denmark"^^xsd:string .
+
+iut:denmark_2002 iut:accident "463.0"^^xsd:float ;
+    iut:annee 2002 ;
+    iut:pays "Denmark"^^xsd:string .
+
+iut:denmark_2003 iut:accident "432.0"^^xsd:float ;
+    iut:annee 2003 ;
+    iut:pays "Denmark"^^xsd:string .
+
+iut:denmark_2004 iut:accident "369.0"^^xsd:float ;
+    iut:annee 2004 ;
+    iut:pays "Denmark"^^xsd:string .
+
+iut:denmark_2005 iut:accident "331.0"^^xsd:float ;
+    iut:annee 2005 ;
+    iut:pays "Denmark"^^xsd:string .
+
+iut:denmark_2006 iut:accident "306.0"^^xsd:float ;
+    iut:annee 2006 ;
+    iut:pays "Denmark"^^xsd:string .
+
+iut:denmark_2007 iut:accident "406.0"^^xsd:float ;
+    iut:annee 2007 ;
+    iut:pays "Denmark"^^xsd:string .
+
+iut:denmark_2008 iut:accident "406.0"^^xsd:float ;
+    iut:annee 2008 ;
+    iut:pays "Denmark"^^xsd:string .
+
+iut:denmark_2009 iut:accident "303.0"^^xsd:float ;
+    iut:annee 2009 ;
+    iut:pays "Denmark"^^xsd:string .
+
+iut:denmark_2010 iut:accident "255.0"^^xsd:float ;
+    iut:annee 2010 ;
+    iut:pays "Denmark"^^xsd:string .
+
+iut:denmark_2011 iut:accident "220.0"^^xsd:float ;
+    iut:annee 2011 ;
+    iut:pays "Denmark"^^xsd:string .
+
+iut:denmark_2012 iut:accident "167.0"^^xsd:float ;
+    iut:annee 2012 ;
+    iut:pays "Denmark"^^xsd:string .
+
+iut:denmark_2013 iut:accident "191.0"^^xsd:float ;
+    iut:annee 2013 ;
+    iut:pays "Denmark"^^xsd:string .
+
+iut:denmark_2014 iut:accident "182.0"^^xsd:float ;
+    iut:annee 2014 ;
+    iut:pays "Denmark"^^xsd:string .
+
+iut:denmark_2015 iut:accident "178.0"^^xsd:float ;
+    iut:annee 2015 ;
+    iut:pays "Denmark"^^xsd:string .
+
+iut:denmark_2016 iut:accident "211.0"^^xsd:float ;
+    iut:annee 2016 ;
+    iut:pays "Denmark"^^xsd:string .
+
+iut:denmark_2017 iut:accident "175.0"^^xsd:float ;
+    iut:annee 2017 ;
+    iut:pays "Denmark"^^xsd:string .
+
+iut:denmark_2018 iut:accident "171.0"^^xsd:float ;
+    iut:annee 2018 ;
+    iut:pays "Denmark"^^xsd:string .
+
+iut:denmark_2019 iut:accident "199.0"^^xsd:float ;
+    iut:annee 2019 ;
+    iut:pays "Denmark"^^xsd:string .
+
+iut:denmark_2020 iut:accident "163.0"^^xsd:float ;
+    iut:annee 2020 ;
+    iut:pays "Denmark"^^xsd:string .
+
+iut:denmark_2021 iut:accident "130.0"^^xsd:float ;
+    iut:annee 2021 ;
+    iut:pays "Denmark"^^xsd:string .
+
+iut:estonia_1999 iut:accident "232.0"^^xsd:float ;
+    iut:annee 1999 ;
+    iut:pays "Estonia"^^xsd:string .
+
+iut:estonia_2000 iut:accident "204.0"^^xsd:float ;
+    iut:annee 2000 ;
+    iut:pays "Estonia"^^xsd:string .
+
+iut:estonia_2001 iut:accident "199.0"^^xsd:float ;
+    iut:annee 2001 ;
+    iut:pays "Estonia"^^xsd:string .
+
+iut:estonia_2002 iut:accident "223.0"^^xsd:float ;
+    iut:annee 2002 ;
+    iut:pays "Estonia"^^xsd:string .
+
+iut:estonia_2003 iut:accident "164.0"^^xsd:float ;
+    iut:annee 2003 ;
+    iut:pays "Estonia"^^xsd:string .
+
+iut:estonia_2004 iut:accident "170.0"^^xsd:float ;
+    iut:annee 2004 ;
+    iut:pays "Estonia"^^xsd:string .
+
+iut:estonia_2005 iut:accident "170.0"^^xsd:float ;
+    iut:annee 2005 ;
+    iut:pays "Estonia"^^xsd:string .
+
+iut:estonia_2006 iut:accident "204.0"^^xsd:float ;
+    iut:annee 2006 ;
+    iut:pays "Estonia"^^xsd:string .
+
+iut:estonia_2007 iut:accident "196.0"^^xsd:float ;
+    iut:annee 2007 ;
+    iut:pays "Estonia"^^xsd:string .
+
+iut:estonia_2008 iut:accident "132.0"^^xsd:float ;
+    iut:annee 2008 ;
+    iut:pays "Estonia"^^xsd:string .
+
+iut:estonia_2009 iut:accident "98.0"^^xsd:float ;
+    iut:annee 2009 ;
+    iut:pays "Estonia"^^xsd:string .
+
+iut:estonia_2010 iut:accident "79.0"^^xsd:float ;
+    iut:annee 2010 ;
+    iut:pays "Estonia"^^xsd:string .
+
+iut:estonia_2011 iut:accident "101.0"^^xsd:float ;
+    iut:annee 2011 ;
+    iut:pays "Estonia"^^xsd:string .
+
+iut:estonia_2012 iut:accident "87.0"^^xsd:float ;
+    iut:annee 2012 ;
+    iut:pays "Estonia"^^xsd:string .
+
+iut:estonia_2013 iut:accident "81.0"^^xsd:float ;
+    iut:annee 2013 ;
+    iut:pays "Estonia"^^xsd:string .
+
+iut:estonia_2014 iut:accident "78.0"^^xsd:float ;
+    iut:annee 2014 ;
+    iut:pays "Estonia"^^xsd:string .
+
+iut:estonia_2015 iut:accident "67.0"^^xsd:float ;
+    iut:annee 2015 ;
+    iut:pays "Estonia"^^xsd:string .
+
+iut:estonia_2016 iut:accident "71.0"^^xsd:float ;
+    iut:annee 2016 ;
+    iut:pays "Estonia"^^xsd:string .
+
+iut:estonia_2017 iut:accident "48.0"^^xsd:float ;
+    iut:annee 2017 ;
+    iut:pays "Estonia"^^xsd:string .
+
+iut:estonia_2018 iut:accident "67.0"^^xsd:float ;
+    iut:annee 2018 ;
+    iut:pays "Estonia"^^xsd:string .
+
+iut:estonia_2019 iut:accident "52.0"^^xsd:float ;
+    iut:annee 2019 ;
+    iut:pays "Estonia"^^xsd:string .
+
+iut:estonia_2020 iut:accident "59.0"^^xsd:float ;
+    iut:annee 2020 ;
+    iut:pays "Estonia"^^xsd:string .
+
+iut:estonia_2021 iut:accident "55.0"^^xsd:float ;
+    iut:annee 2021 ;
+    iut:pays "Estonia"^^xsd:string .
+
+iut:finland_1999 iut:accident "431.0"^^xsd:float ;
+    iut:annee 1999 ;
+    iut:pays "Finland"^^xsd:string .
+
+iut:finland_2000 iut:accident "396.0"^^xsd:float ;
+    iut:annee 2000 ;
+    iut:pays "Finland"^^xsd:string .
+
+iut:finland_2001 iut:accident "433.0"^^xsd:float ;
+    iut:annee 2001 ;
+    iut:pays "Finland"^^xsd:string .
+
+iut:finland_2002 iut:accident "415.0"^^xsd:float ;
+    iut:annee 2002 ;
+    iut:pays "Finland"^^xsd:string .
+
+iut:finland_2003 iut:accident "379.0"^^xsd:float ;
+    iut:annee 2003 ;
+    iut:pays "Finland"^^xsd:string .
+
+iut:finland_2004 iut:accident "375.0"^^xsd:float ;
+    iut:annee 2004 ;
+    iut:pays "Finland"^^xsd:string .
+
+iut:finland_2005 iut:accident "379.0"^^xsd:float ;
+    iut:annee 2005 ;
+    iut:pays "Finland"^^xsd:string .
+
+iut:finland_2006 iut:accident "336.0"^^xsd:float ;
+    iut:annee 2006 ;
+    iut:pays "Finland"^^xsd:string .
+
+iut:finland_2007 iut:accident "380.0"^^xsd:float ;
+    iut:annee 2007 ;
+    iut:pays "Finland"^^xsd:string .
+
+iut:finland_2008 iut:accident "344.0"^^xsd:float ;
+    iut:annee 2008 ;
+    iut:pays "Finland"^^xsd:string .
+
+iut:finland_2009 iut:accident "279.0"^^xsd:float ;
+    iut:annee 2009 ;
+    iut:pays "Finland"^^xsd:string .
+
+iut:finland_2010 iut:accident "272.0"^^xsd:float ;
+    iut:annee 2010 ;
+    iut:pays "Finland"^^xsd:string .
+
+iut:finland_2011 iut:accident "292.0"^^xsd:float ;
+    iut:annee 2011 ;
+    iut:pays "Finland"^^xsd:string .
+
+iut:finland_2012 iut:accident "255.0"^^xsd:float ;
+    iut:annee 2012 ;
+    iut:pays "Finland"^^xsd:string .
+
+iut:finland_2013 iut:accident "258.0"^^xsd:float ;
+    iut:annee 2013 ;
+    iut:pays "Finland"^^xsd:string .
+
+iut:finland_2014 iut:accident "229.0"^^xsd:float ;
+    iut:annee 2014 ;
+    iut:pays "Finland"^^xsd:string .
+
+iut:finland_2015 iut:accident "270.0"^^xsd:float ;
+    iut:annee 2015 ;
+    iut:pays "Finland"^^xsd:string .
+
+iut:finland_2016 iut:accident "258.0"^^xsd:float ;
+    iut:annee 2016 ;
+    iut:pays "Finland"^^xsd:string .
+
+iut:finland_2017 iut:accident "238.0"^^xsd:float ;
+    iut:annee 2017 ;
+    iut:pays "Finland"^^xsd:string .
+
+iut:finland_2018 iut:accident "239.0"^^xsd:float ;
+    iut:annee 2018 ;
+    iut:pays "Finland"^^xsd:string .
+
+iut:finland_2019 iut:accident "211.0"^^xsd:float ;
+    iut:annee 2019 ;
+    iut:pays "Finland"^^xsd:string .
+
+iut:finland_2020 iut:accident "223.0"^^xsd:float ;
+    iut:annee 2020 ;
+    iut:pays "Finland"^^xsd:string .
+
+iut:finland_2021 iut:accident "225.0"^^xsd:float ;
+    iut:annee 2021 ;
+    iut:pays "Finland"^^xsd:string .
+
+iut:france_1999 iut:accident "8462.0"^^xsd:float ;
+    iut:annee 1999 ;
+    iut:pays "France"^^xsd:string .
+
+iut:france_2000 iut:accident "8058.999999999999"^^xsd:float ;
+    iut:annee 2000 ;
+    iut:pays "France"^^xsd:string .
+
+iut:france_2001 iut:accident "8135.999999999999"^^xsd:float ;
+    iut:annee 2001 ;
+    iut:pays "France"^^xsd:string .
+
+iut:france_2002 iut:accident "7630.0"^^xsd:float ;
+    iut:annee 2002 ;
+    iut:pays "France"^^xsd:string .
+
+iut:france_2003 iut:accident "6034.0"^^xsd:float ;
+    iut:annee 2003 ;
+    iut:pays "France"^^xsd:string .
+
+iut:france_2004 iut:accident "5506.0"^^xsd:float ;
+    iut:annee 2004 ;
+    iut:pays "France"^^xsd:string .
+
+iut:france_2005 iut:accident "5318.0"^^xsd:float ;
+    iut:annee 2005 ;
+    iut:pays "France"^^xsd:string .
+
+iut:france_2006 iut:accident "4709.0"^^xsd:float ;
+    iut:annee 2006 ;
+    iut:pays "France"^^xsd:string .
+
+iut:france_2007 iut:accident "4620.0"^^xsd:float ;
+    iut:annee 2007 ;
+    iut:pays "France"^^xsd:string .
+
+iut:france_2008 iut:accident "4275.0"^^xsd:float ;
+    iut:annee 2008 ;
+    iut:pays "France"^^xsd:string .
+
+iut:france_2009 iut:accident "4273.0"^^xsd:float ;
+    iut:annee 2009 ;
+    iut:pays "France"^^xsd:string .
+
+iut:france_2010 iut:accident "3992.0"^^xsd:float ;
+    iut:annee 2010 ;
+    iut:pays "France"^^xsd:string .
+
+iut:france_2011 iut:accident "3963.0"^^xsd:float ;
+    iut:annee 2011 ;
+    iut:pays "France"^^xsd:string .
+
+iut:france_2012 iut:accident "3653.0"^^xsd:float ;
+    iut:annee 2012 ;
+    iut:pays "France"^^xsd:string .
+
+iut:france_2013 iut:accident "3268.0"^^xsd:float ;
+    iut:annee 2013 ;
+    iut:pays "France"^^xsd:string .
+
+iut:france_2014 iut:accident "3384.0"^^xsd:float ;
+    iut:annee 2014 ;
+    iut:pays "France"^^xsd:string .
+
+iut:france_2015 iut:accident "3459.0"^^xsd:float ;
+    iut:annee 2015 ;
+    iut:pays "France"^^xsd:string .
+
+iut:france_2016 iut:accident "3471.0"^^xsd:float ;
+    iut:annee 2016 ;
+    iut:pays "France"^^xsd:string .
+
+iut:france_2017 iut:accident "3444.0"^^xsd:float ;
+    iut:annee 2017 ;
+    iut:pays "France"^^xsd:string .
+
+iut:france_2018 iut:accident "3246.0"^^xsd:float ;
+    iut:annee 2018 ;
+    iut:pays "France"^^xsd:string .
+
+iut:france_2019 iut:accident "3237.0"^^xsd:float ;
+    iut:annee 2019 ;
+    iut:pays "France"^^xsd:string .
+
+iut:france_2020 iut:accident "2538.0"^^xsd:float ;
+    iut:annee 2020 ;
+    iut:pays "France"^^xsd:string .
+
+iut:france_2021 iut:accident "2931.0"^^xsd:float ;
+    iut:annee 2021 ;
+    iut:pays "France"^^xsd:string .
+
+iut:germany_1999 iut:accident "7772.0"^^xsd:float ;
+    iut:annee 1999 ;
+    iut:pays "Germany"^^xsd:string .
+
+iut:germany_2000 iut:accident "7503.0"^^xsd:float ;
+    iut:annee 2000 ;
+    iut:pays "Germany"^^xsd:string .
+
+iut:germany_2001 iut:accident "6977.0"^^xsd:float ;
+    iut:annee 2001 ;
+    iut:pays "Germany"^^xsd:string .
+
+iut:germany_2002 iut:accident "6842.0"^^xsd:float ;
+    iut:annee 2002 ;
+    iut:pays "Germany"^^xsd:string .
+
+iut:germany_2003 iut:accident "6613.0"^^xsd:float ;
+    iut:annee 2003 ;
+    iut:pays "Germany"^^xsd:string .
+
+iut:germany_2004 iut:accident "5842.0"^^xsd:float ;
+    iut:annee 2004 ;
+    iut:pays "Germany"^^xsd:string .
+
+iut:germany_2005 iut:accident "5361.0"^^xsd:float ;
+    iut:annee 2005 ;
+    iut:pays "Germany"^^xsd:string .
+
+iut:germany_2006 iut:accident "5091.0"^^xsd:float ;
+    iut:annee 2006 ;
+    iut:pays "Germany"^^xsd:string .
+
+iut:germany_2007 iut:accident "4949.0"^^xsd:float ;
+    iut:annee 2007 ;
+    iut:pays "Germany"^^xsd:string .
+
+iut:germany_2008 iut:accident "4477.0"^^xsd:float ;
+    iut:annee 2008 ;
+    iut:pays "Germany"^^xsd:string .
+
+iut:germany_2009 iut:accident "4152.0"^^xsd:float ;
+    iut:annee 2009 ;
+    iut:pays "Germany"^^xsd:string .
+
+iut:germany_2010 iut:accident "3648.0"^^xsd:float ;
+    iut:annee 2010 ;
+    iut:pays "Germany"^^xsd:string .
+
+iut:germany_2011 iut:accident "4009.0000000000005"^^xsd:float ;
+    iut:annee 2011 ;
+    iut:pays "Germany"^^xsd:string .
+
+iut:germany_2012 iut:accident "3600.0"^^xsd:float ;
+    iut:annee 2012 ;
+    iut:pays "Germany"^^xsd:string .
+
+iut:germany_2013 iut:accident "3339.0"^^xsd:float ;
+    iut:annee 2013 ;
+    iut:pays "Germany"^^xsd:string .
+
+iut:germany_2014 iut:accident "3377.0"^^xsd:float ;
+    iut:annee 2014 ;
+    iut:pays "Germany"^^xsd:string .
+
+iut:germany_2015 iut:accident "3459.0"^^xsd:float ;
+    iut:annee 2015 ;
+    iut:pays "Germany"^^xsd:string .
+
+iut:germany_2016 iut:accident "3206.0"^^xsd:float ;
+    iut:annee 2016 ;
+    iut:pays "Germany"^^xsd:string .
+
+iut:germany_2017 iut:accident "3180.0"^^xsd:float ;
+    iut:annee 2017 ;
+    iut:pays "Germany"^^xsd:string .
+
+iut:germany_2018 iut:accident "3275.0"^^xsd:float ;
+    iut:annee 2018 ;
+    iut:pays "Germany"^^xsd:string .
+
+iut:germany_2019 iut:accident "3046.0"^^xsd:float ;
+    iut:annee 2019 ;
+    iut:pays "Germany"^^xsd:string .
+
+iut:germany_2020 iut:accident "2719.0"^^xsd:float ;
+    iut:annee 2020 ;
+    iut:pays "Germany"^^xsd:string .
+
+iut:germany_2021 iut:accident "2562.0"^^xsd:float ;
+    iut:annee 2021 ;
+    iut:pays "Germany"^^xsd:string .
+
+iut:greece_1999 iut:accident "2116.0"^^xsd:float ;
+    iut:annee 1999 ;
+    iut:pays "Greece"^^xsd:string .
+
+iut:greece_2000 iut:accident "2037.0"^^xsd:float ;
+    iut:annee 2000 ;
+    iut:pays "Greece"^^xsd:string .
+
+iut:greece_2001 iut:accident "1880.0"^^xsd:float ;
+    iut:annee 2001 ;
+    iut:pays "Greece"^^xsd:string .
+
+iut:greece_2002 iut:accident "1634.0"^^xsd:float ;
+    iut:annee 2002 ;
+    iut:pays "Greece"^^xsd:string .
+
+iut:greece_2003 iut:accident "1605.0"^^xsd:float ;
+    iut:annee 2003 ;
+    iut:pays "Greece"^^xsd:string .
+
+iut:greece_2004 iut:accident "1670.0"^^xsd:float ;
+    iut:annee 2004 ;
+    iut:pays "Greece"^^xsd:string .
+
+iut:greece_2005 iut:accident "1658.0"^^xsd:float ;
+    iut:annee 2005 ;
+    iut:pays "Greece"^^xsd:string .
+
+iut:greece_2006 iut:accident "1657.0"^^xsd:float ;
+    iut:annee 2006 ;
+    iut:pays "Greece"^^xsd:string .
+
+iut:greece_2007 iut:accident "1612.0"^^xsd:float ;
+    iut:annee 2007 ;
+    iut:pays "Greece"^^xsd:string .
+
+iut:greece_2008 iut:accident "1553.0"^^xsd:float ;
+    iut:annee 2008 ;
+    iut:pays "Greece"^^xsd:string .
+
+iut:greece_2009 iut:accident "1456.0"^^xsd:float ;
+    iut:annee 2009 ;
+    iut:pays "Greece"^^xsd:string .
+
+iut:greece_2010 iut:accident "1258.0"^^xsd:float ;
+    iut:annee 2010 ;
+    iut:pays "Greece"^^xsd:string .
+
+iut:greece_2011 iut:accident "1141.0"^^xsd:float ;
+    iut:annee 2011 ;
+    iut:pays "Greece"^^xsd:string .
+
+iut:greece_2012 iut:accident "988.0"^^xsd:float ;
+    iut:annee 2012 ;
+    iut:pays "Greece"^^xsd:string .
+
+iut:greece_2013 iut:accident "879.0"^^xsd:float ;
+    iut:annee 2013 ;
+    iut:pays "Greece"^^xsd:string .
+
+iut:greece_2014 iut:accident "795.0"^^xsd:float ;
+    iut:annee 2014 ;
+    iut:pays "Greece"^^xsd:string .
+
+iut:greece_2015 iut:accident "793.0"^^xsd:float ;
+    iut:annee 2015 ;
+    iut:pays "Greece"^^xsd:string .
+
+iut:greece_2016 iut:accident "824.0"^^xsd:float ;
+    iut:annee 2016 ;
+    iut:pays "Greece"^^xsd:string .
+
+iut:greece_2017 iut:accident "731.0"^^xsd:float ;
+    iut:annee 2017 ;
+    iut:pays "Greece"^^xsd:string .
+
+iut:greece_2018 iut:accident "700.0"^^xsd:float ;
+    iut:annee 2018 ;
+    iut:pays "Greece"^^xsd:string .
+
+iut:greece_2019 iut:accident "688.0"^^xsd:float ;
+    iut:annee 2019 ;
+    iut:pays "Greece"^^xsd:string .
+
+iut:greece_2020 iut:accident "584.0"^^xsd:float ;
+    iut:annee 2020 ;
+    iut:pays "Greece"^^xsd:string .
+
+iut:greece_2021 iut:accident "624.0"^^xsd:float ;
+    iut:annee 2021 ;
+    iut:pays "Greece"^^xsd:string .
+
+iut:hungary_1999 iut:accident "1306.0"^^xsd:float ;
+    iut:annee 1999 ;
+    iut:pays "Hungary"^^xsd:string .
+
+iut:hungary_2000 iut:accident "1200.0"^^xsd:float ;
+    iut:annee 2000 ;
+    iut:pays "Hungary"^^xsd:string .
+
+iut:hungary_2001 iut:accident "1239.0"^^xsd:float ;
+    iut:annee 2001 ;
+    iut:pays "Hungary"^^xsd:string .
+
+iut:hungary_2002 iut:accident "1429.0"^^xsd:float ;
+    iut:annee 2002 ;
+    iut:pays "Hungary"^^xsd:string .
+
+iut:hungary_2003 iut:accident "1326.0"^^xsd:float ;
+    iut:annee 2003 ;
+    iut:pays "Hungary"^^xsd:string .
+
+iut:hungary_2004 iut:accident "1296.0"^^xsd:float ;
+    iut:annee 2004 ;
+    iut:pays "Hungary"^^xsd:string .
+
+iut:hungary_2005 iut:accident "1278.0"^^xsd:float ;
+    iut:annee 2005 ;
+    iut:pays "Hungary"^^xsd:string .
+
+iut:hungary_2006 iut:accident "1303.0"^^xsd:float ;
+    iut:annee 2006 ;
+    iut:pays "Hungary"^^xsd:string .
+
+iut:hungary_2007 iut:accident "1232.0"^^xsd:float ;
+    iut:annee 2007 ;
+    iut:pays "Hungary"^^xsd:string .
+
+iut:hungary_2008 iut:accident "996.0"^^xsd:float ;
+    iut:annee 2008 ;
+    iut:pays "Hungary"^^xsd:string .
+
+iut:hungary_2009 iut:accident "822.0"^^xsd:float ;
+    iut:annee 2009 ;
+    iut:pays "Hungary"^^xsd:string .
+
+iut:hungary_2010 iut:accident "740.0"^^xsd:float ;
+    iut:annee 2010 ;
+    iut:pays "Hungary"^^xsd:string .
+
+iut:hungary_2011 iut:accident "638.0"^^xsd:float ;
+    iut:annee 2011 ;
+    iut:pays "Hungary"^^xsd:string .
+
+iut:hungary_2012 iut:accident "605.0"^^xsd:float ;
+    iut:annee 2012 ;
+    iut:pays "Hungary"^^xsd:string .
+
+iut:hungary_2013 iut:accident "591.0"^^xsd:float ;
+    iut:annee 2013 ;
+    iut:pays "Hungary"^^xsd:string .
+
+iut:hungary_2014 iut:accident "626.0"^^xsd:float ;
+    iut:annee 2014 ;
+    iut:pays "Hungary"^^xsd:string .
+
+iut:hungary_2015 iut:accident "644.0"^^xsd:float ;
+    iut:annee 2015 ;
+    iut:pays "Hungary"^^xsd:string .
+
+iut:hungary_2016 iut:accident "607.0"^^xsd:float ;
+    iut:annee 2016 ;
+    iut:pays "Hungary"^^xsd:string .
+
+iut:hungary_2017 iut:accident "625.0"^^xsd:float ;
+    iut:annee 2017 ;
+    iut:pays "Hungary"^^xsd:string .
+
+iut:hungary_2018 iut:accident "633.0"^^xsd:float ;
+    iut:annee 2018 ;
+    iut:pays "Hungary"^^xsd:string .
+
+iut:hungary_2019 iut:accident "602.0"^^xsd:float ;
+    iut:annee 2019 ;
+    iut:pays "Hungary"^^xsd:string .
+
+iut:hungary_2020 iut:accident "460.0"^^xsd:float ;
+    iut:annee 2020 ;
+    iut:pays "Hungary"^^xsd:string .
+
+iut:hungary_2021 iut:accident "544.0"^^xsd:float ;
+    iut:annee 2021 ;
+    iut:pays "Hungary"^^xsd:string .
+
+iut:iceland_1999 iut:accident "21.0"^^xsd:float ;
+    iut:annee 1999 ;
+    iut:pays "Iceland"^^xsd:string .
+
+iut:iceland_2000 iut:accident "32.0"^^xsd:float ;
+    iut:annee 2000 ;
+    iut:pays "Iceland"^^xsd:string .
+
+iut:iceland_2001 iut:accident "24.0"^^xsd:float ;
+    iut:annee 2001 ;
+    iut:pays "Iceland"^^xsd:string .
+
+iut:iceland_2002 iut:accident "29.0"^^xsd:float ;
+    iut:annee 2002 ;
+    iut:pays "Iceland"^^xsd:string .
+
+iut:iceland_2003 iut:accident "23.0"^^xsd:float ;
+    iut:annee 2003 ;
+    iut:pays "Iceland"^^xsd:string .
+
+iut:iceland_2004 iut:accident "23.0"^^xsd:float ;
+    iut:annee 2004 ;
+    iut:pays "Iceland"^^xsd:string .
+
+iut:iceland_2005 iut:accident "19.0"^^xsd:float ;
+    iut:annee 2005 ;
+    iut:pays "Iceland"^^xsd:string .
+
+iut:iceland_2006 iut:accident "31.0"^^xsd:float ;
+    iut:annee 2006 ;
+    iut:pays "Iceland"^^xsd:string .
+
+iut:iceland_2007 iut:accident "15.0"^^xsd:float ;
+    iut:annee 2007 ;
+    iut:pays "Iceland"^^xsd:string .
+
+iut:iceland_2008 iut:accident "12.0"^^xsd:float ;
+    iut:annee 2008 ;
+    iut:pays "Iceland"^^xsd:string .
+
+iut:iceland_2009 iut:accident "17.0"^^xsd:float ;
+    iut:annee 2009 ;
+    iut:pays "Iceland"^^xsd:string .
+
+iut:iceland_2010 iut:accident "8.0"^^xsd:float ;
+    iut:annee 2010 ;
+    iut:pays "Iceland"^^xsd:string .
+
+iut:iceland_2011 iut:accident "12.0"^^xsd:float ;
+    iut:annee 2011 ;
+    iut:pays "Iceland"^^xsd:string .
+
+iut:iceland_2012 iut:accident "9.0"^^xsd:float ;
+    iut:annee 2012 ;
+    iut:pays "Iceland"^^xsd:string .
+
+iut:iceland_2013 iut:accident "15.0"^^xsd:float ;
+    iut:annee 2013 ;
+    iut:pays "Iceland"^^xsd:string .
+
+iut:iceland_2014 iut:accident "4.0"^^xsd:float ;
+    iut:annee 2014 ;
+    iut:pays "Iceland"^^xsd:string .
+
+iut:iceland_2015 iut:accident "16.0"^^xsd:float ;
+    iut:annee 2015 ;
+    iut:pays "Iceland"^^xsd:string .
+
+iut:iceland_2016 iut:accident "18.0"^^xsd:float ;
+    iut:annee 2016 ;
+    iut:pays "Iceland"^^xsd:string .
+
+iut:iceland_2017 iut:accident "16.0"^^xsd:float ;
+    iut:annee 2017 ;
+    iut:pays "Iceland"^^xsd:string .
+
+iut:iceland_2018 iut:accident "18.0"^^xsd:float ;
+    iut:annee 2018 ;
+    iut:pays "Iceland"^^xsd:string .
+
+iut:iceland_2019 iut:accident "6.0"^^xsd:float ;
+    iut:annee 2019 ;
+    iut:pays "Iceland"^^xsd:string .
+
+iut:iceland_2020 iut:accident "8.0"^^xsd:float ;
+    iut:annee 2020 ;
+    iut:pays "Iceland"^^xsd:string .
+
+iut:iceland_2021 iut:accident "9.0"^^xsd:float ;
+    iut:annee 2021 ;
+    iut:pays "Iceland"^^xsd:string .
+
+iut:ireland_1999 iut:accident "414.0"^^xsd:float ;
+    iut:annee 1999 ;
+    iut:pays "Ireland"^^xsd:string .
+
+iut:ireland_2000 iut:accident "418.0"^^xsd:float ;
+    iut:annee 2000 ;
+    iut:pays "Ireland"^^xsd:string .
+
+iut:ireland_2001 iut:accident "412.0"^^xsd:float ;
+    iut:annee 2001 ;
+    iut:pays "Ireland"^^xsd:string .
+
+iut:ireland_2002 iut:accident "378.0"^^xsd:float ;
+    iut:annee 2002 ;
+    iut:pays "Ireland"^^xsd:string .
+
+iut:ireland_2003 iut:accident "337.0"^^xsd:float ;
+    iut:annee 2003 ;
+    iut:pays "Ireland"^^xsd:string .
+
+iut:ireland_2004 iut:accident "377.0"^^xsd:float ;
+    iut:annee 2004 ;
+    iut:pays "Ireland"^^xsd:string .
+
+iut:ireland_2005 iut:accident "400.0"^^xsd:float ;
+    iut:annee 2005 ;
+    iut:pays "Ireland"^^xsd:string .
+
+iut:ireland_2006 iut:accident "365.0"^^xsd:float ;
+    iut:annee 2006 ;
+    iut:pays "Ireland"^^xsd:string .
+
+iut:ireland_2007 iut:accident "338.0"^^xsd:float ;
+    iut:annee 2007 ;
+    iut:pays "Ireland"^^xsd:string .
+
+iut:ireland_2008 iut:accident "280.0"^^xsd:float ;
+    iut:annee 2008 ;
+    iut:pays "Ireland"^^xsd:string .
+
+iut:ireland_2009 iut:accident "238.0"^^xsd:float ;
+    iut:annee 2009 ;
+    iut:pays "Ireland"^^xsd:string .
+
+iut:ireland_2010 iut:accident "212.0"^^xsd:float ;
+    iut:annee 2010 ;
+    iut:pays "Ireland"^^xsd:string .
+
+iut:ireland_2011 iut:accident "186.0"^^xsd:float ;
+    iut:annee 2011 ;
+    iut:pays "Ireland"^^xsd:string .
+
+iut:ireland_2012 iut:accident "163.0"^^xsd:float ;
+    iut:annee 2012 ;
+    iut:pays "Ireland"^^xsd:string .
+
+iut:ireland_2013 iut:accident "188.0"^^xsd:float ;
+    iut:annee 2013 ;
+    iut:pays "Ireland"^^xsd:string .
+
+iut:ireland_2014 iut:accident "192.0"^^xsd:float ;
+    iut:annee 2014 ;
+    iut:pays "Ireland"^^xsd:string .
+
+iut:ireland_2015 iut:accident "162.0"^^xsd:float ;
+    iut:annee 2015 ;
+    iut:pays "Ireland"^^xsd:string .
+
+iut:ireland_2016 iut:accident "182.0"^^xsd:float ;
+    iut:annee 2016 ;
+    iut:pays "Ireland"^^xsd:string .
+
+iut:ireland_2017 iut:accident "154.0"^^xsd:float ;
+    iut:annee 2017 ;
+    iut:pays "Ireland"^^xsd:string .
+
+iut:ireland_2018 iut:accident "135.0"^^xsd:float ;
+    iut:annee 2018 ;
+    iut:pays "Ireland"^^xsd:string .
+
+iut:ireland_2019 iut:accident "140.0"^^xsd:float ;
+    iut:annee 2019 ;
+    iut:pays "Ireland"^^xsd:string .
+
+iut:ireland_2020 iut:accident "146.0"^^xsd:float ;
+    iut:annee 2020 ;
+    iut:pays "Ireland"^^xsd:string .
+
+iut:ireland_2021 iut:accident "137.0"^^xsd:float ;
+    iut:annee 2021 ;
+    iut:pays "Ireland"^^xsd:string .
+
+iut:italy_1999 iut:accident "6688.0"^^xsd:float ;
+    iut:annee 1999 ;
+    iut:pays "Italy"^^xsd:string .
+
+iut:italy_2000 iut:accident "7061.0"^^xsd:float ;
+    iut:annee 2000 ;
+    iut:pays "Italy"^^xsd:string .
+
+iut:italy_2001 iut:accident "7096.0"^^xsd:float ;
+    iut:annee 2001 ;
+    iut:pays "Italy"^^xsd:string .
+
+iut:italy_2002 iut:accident "6980.0"^^xsd:float ;
+    iut:annee 2002 ;
+    iut:pays "Italy"^^xsd:string .
+
+iut:italy_2003 iut:accident "6563.0"^^xsd:float ;
+    iut:annee 2003 ;
+    iut:pays "Italy"^^xsd:string .
+
+iut:italy_2004 iut:accident "6122.0"^^xsd:float ;
+    iut:annee 2004 ;
+    iut:pays "Italy"^^xsd:string .
+
+iut:italy_2005 iut:accident "5818.0"^^xsd:float ;
+    iut:annee 2005 ;
+    iut:pays "Italy"^^xsd:string .
+
+iut:italy_2006 iut:accident "5669.0"^^xsd:float ;
+    iut:annee 2006 ;
+    iut:pays "Italy"^^xsd:string .
+
+iut:italy_2007 iut:accident "5131.0"^^xsd:float ;
+    iut:annee 2007 ;
+    iut:pays "Italy"^^xsd:string .
+
+iut:italy_2008 iut:accident "4725.0"^^xsd:float ;
+    iut:annee 2008 ;
+    iut:pays "Italy"^^xsd:string .
+
+iut:italy_2009 iut:accident "4237.0"^^xsd:float ;
+    iut:annee 2009 ;
+    iut:pays "Italy"^^xsd:string .
+
+iut:italy_2010 iut:accident "4114.0"^^xsd:float ;
+    iut:annee 2010 ;
+    iut:pays "Italy"^^xsd:string .
+
+iut:italy_2011 iut:accident "3860.0"^^xsd:float ;
+    iut:annee 2011 ;
+    iut:pays "Italy"^^xsd:string .
+
+iut:italy_2012 iut:accident "3753.0"^^xsd:float ;
+    iut:annee 2012 ;
+    iut:pays "Italy"^^xsd:string .
+
+iut:italy_2013 iut:accident "3401.0"^^xsd:float ;
+    iut:annee 2013 ;
+    iut:pays "Italy"^^xsd:string .
+
+iut:italy_2014 iut:accident "3381.0"^^xsd:float ;
+    iut:annee 2014 ;
+    iut:pays "Italy"^^xsd:string .
+
+iut:italy_2015 iut:accident "3428.0"^^xsd:float ;
+    iut:annee 2015 ;
+    iut:pays "Italy"^^xsd:string .
+
+iut:italy_2016 iut:accident "3283.0"^^xsd:float ;
+    iut:annee 2016 ;
+    iut:pays "Italy"^^xsd:string .
+
+iut:italy_2017 iut:accident "3378.0"^^xsd:float ;
+    iut:annee 2017 ;
+    iut:pays "Italy"^^xsd:string .
+
+iut:italy_2018 iut:accident "3334.0"^^xsd:float ;
+    iut:annee 2018 ;
+    iut:pays "Italy"^^xsd:string .
+
+iut:italy_2019 iut:accident "3173.0"^^xsd:float ;
+    iut:annee 2019 ;
+    iut:pays "Italy"^^xsd:string .
+
+iut:italy_2020 iut:accident "2395.0"^^xsd:float ;
+    iut:annee 2020 ;
+    iut:pays "Italy"^^xsd:string .
+
+iut:italy_2021 iut:accident "2875.0"^^xsd:float ;
+    iut:annee 2021 ;
+    iut:pays "Italy"^^xsd:string .
+
+iut:latvia_1999 iut:accident "652.0"^^xsd:float ;
+    iut:annee 1999 ;
+    iut:pays "Latvia"^^xsd:string .
+
+iut:latvia_2000 iut:accident "635.0"^^xsd:float ;
+    iut:annee 2000 ;
+    iut:pays "Latvia"^^xsd:string .
+
+iut:latvia_2001 iut:accident "558.0"^^xsd:float ;
+    iut:annee 2001 ;
+    iut:pays "Latvia"^^xsd:string .
+
+iut:latvia_2002 iut:accident "559.0"^^xsd:float ;
+    iut:annee 2002 ;
+    iut:pays "Latvia"^^xsd:string .
+
+iut:latvia_2003 iut:accident "532.0"^^xsd:float ;
+    iut:annee 2003 ;
+    iut:pays "Latvia"^^xsd:string .
+
+iut:latvia_2004 iut:accident "516.0"^^xsd:float ;
+    iut:annee 2004 ;
+    iut:pays "Latvia"^^xsd:string .
+
+iut:latvia_2005 iut:accident "442.0"^^xsd:float ;
+    iut:annee 2005 ;
+    iut:pays "Latvia"^^xsd:string .
+
+iut:latvia_2006 iut:accident "407.0"^^xsd:float ;
+    iut:annee 2006 ;
+    iut:pays "Latvia"^^xsd:string .
+
+iut:latvia_2007 iut:accident "419.0"^^xsd:float ;
+    iut:annee 2007 ;
+    iut:pays "Latvia"^^xsd:string .
+
+iut:latvia_2008 iut:accident "316.0"^^xsd:float ;
+    iut:annee 2008 ;
+    iut:pays "Latvia"^^xsd:string .
+
+iut:latvia_2009 iut:accident "254.0"^^xsd:float ;
+    iut:annee 2009 ;
+    iut:pays "Latvia"^^xsd:string .
+
+iut:latvia_2010 iut:accident "218.0"^^xsd:float ;
+    iut:annee 2010 ;
+    iut:pays "Latvia"^^xsd:string .
+
+iut:latvia_2011 iut:accident "179.0"^^xsd:float ;
+    iut:annee 2011 ;
+    iut:pays "Latvia"^^xsd:string .
+
+iut:latvia_2012 iut:accident "177.0"^^xsd:float ;
+    iut:annee 2012 ;
+    iut:pays "Latvia"^^xsd:string .
+
+iut:latvia_2013 iut:accident "179.0"^^xsd:float ;
+    iut:annee 2013 ;
+    iut:pays "Latvia"^^xsd:string .
+
+iut:latvia_2014 iut:accident "212.0"^^xsd:float ;
+    iut:annee 2014 ;
+    iut:pays "Latvia"^^xsd:string .
+
+iut:latvia_2015 iut:accident "188.0"^^xsd:float ;
+    iut:annee 2015 ;
+    iut:pays "Latvia"^^xsd:string .
+
+iut:latvia_2016 iut:accident "158.0"^^xsd:float ;
+    iut:annee 2016 ;
+    iut:pays "Latvia"^^xsd:string .
+
+iut:latvia_2017 iut:accident "136.0"^^xsd:float ;
+    iut:annee 2017 ;
+    iut:pays "Latvia"^^xsd:string .
+
+iut:latvia_2018 iut:accident "148.0"^^xsd:float ;
+    iut:annee 2018 ;
+    iut:pays "Latvia"^^xsd:string .
+
+iut:latvia_2019 iut:accident "132.0"^^xsd:float ;
+    iut:annee 2019 ;
+    iut:pays "Latvia"^^xsd:string .
+
+iut:latvia_2020 iut:accident "139.0"^^xsd:float ;
+    iut:annee 2020 ;
+    iut:pays "Latvia"^^xsd:string .
+
+iut:latvia_2021 iut:accident "147.0"^^xsd:float ;
+    iut:annee 2021 ;
+    iut:pays "Latvia"^^xsd:string .
+
+iut:liechtenstein_1999 iut:accident "0.0"^^xsd:float ;
+    iut:annee 1999 ;
+    iut:pays "Liechtenstein"^^xsd:string .
+
+iut:liechtenstein_2000 iut:accident "3.0"^^xsd:float ;
+    iut:annee 2000 ;
+    iut:pays "Liechtenstein"^^xsd:string .
+
+iut:liechtenstein_2001 iut:accident "2.0"^^xsd:float ;
+    iut:annee 2001 ;
+    iut:pays "Liechtenstein"^^xsd:string .
+
+iut:liechtenstein_2002 iut:accident "0.0"^^xsd:float ;
+    iut:annee 2002 ;
+    iut:pays "Liechtenstein"^^xsd:string .
+
+iut:liechtenstein_2003 iut:accident "5.0"^^xsd:float ;
+    iut:annee 2003 ;
+    iut:pays "Liechtenstein"^^xsd:string .
+
+iut:liechtenstein_2004 iut:accident "1.0"^^xsd:float ;
+    iut:annee 2004 ;
+    iut:pays "Liechtenstein"^^xsd:string .
+
+iut:liechtenstein_2005 iut:accident "2.0"^^xsd:float ;
+    iut:annee 2005 ;
+    iut:pays "Liechtenstein"^^xsd:string .
+
+iut:liechtenstein_2006 iut:accident "0.0"^^xsd:float ;
+    iut:annee 2006 ;
+    iut:pays "Liechtenstein"^^xsd:string .
+
+iut:liechtenstein_2007 iut:accident "0.0"^^xsd:float ;
+    iut:annee 2007 ;
+    iut:pays "Liechtenstein"^^xsd:string .
+
+iut:liechtenstein_2008 iut:accident "1.0"^^xsd:float ;
+    iut:annee 2008 ;
+    iut:pays "Liechtenstein"^^xsd:string .
+
+iut:liechtenstein_2009 iut:accident "1.0"^^xsd:float ;
+    iut:annee 2009 ;
+    iut:pays "Liechtenstein"^^xsd:string .
+
+iut:liechtenstein_2010 iut:accident "0.0"^^xsd:float ;
+    iut:annee 2010 ;
+    iut:pays "Liechtenstein"^^xsd:string .
+
+iut:liechtenstein_2011 iut:accident "2.0"^^xsd:float ;
+    iut:annee 2011 ;
+    iut:pays "Liechtenstein"^^xsd:string .
+
+iut:liechtenstein_2012 iut:accident "1.0"^^xsd:float ;
+    iut:annee 2012 ;
+    iut:pays "Liechtenstein"^^xsd:string .
+
+iut:liechtenstein_2013 iut:accident "2.0"^^xsd:float ;
+    iut:annee 2013 ;
+    iut:pays "Liechtenstein"^^xsd:string .
+
+iut:liechtenstein_2014 iut:accident "3.0"^^xsd:float ;
+    iut:annee 2014 ;
+    iut:pays "Liechtenstein"^^xsd:string .
+
+iut:liechtenstein_2015 iut:accident "2.0"^^xsd:float ;
+    iut:annee 2015 ;
+    iut:pays "Liechtenstein"^^xsd:string .
+
+iut:liechtenstein_2016 iut:accident "0.0"^^xsd:float ;
+    iut:annee 2016 ;
+    iut:pays "Liechtenstein"^^xsd:string .
+
+iut:liechtenstein_2017 iut:accident "2.0"^^xsd:float ;
+    iut:annee 2017 ;
+    iut:pays "Liechtenstein"^^xsd:string .
+
+iut:liechtenstein_2018 iut:accident "0.0"^^xsd:float ;
+    iut:annee 2018 ;
+    iut:pays "Liechtenstein"^^xsd:string .
+
+iut:liechtenstein_2019 iut:accident "0.0"^^xsd:float ;
+    iut:annee 2019 ;
+    iut:pays "Liechtenstein"^^xsd:string .
+
+iut:liechtenstein_2020 iut:accident "0.0"^^xsd:float ;
+    iut:annee 2020 ;
+    iut:pays "Liechtenstein"^^xsd:string .
+
+iut:liechtenstein_2021 iut:accident "0.0"^^xsd:float ;
+    iut:annee 2021 ;
+    iut:pays "Liechtenstein"^^xsd:string .
+
+iut:lithuania_1999 iut:accident "748.0"^^xsd:float ;
+    iut:annee 1999 ;
+    iut:pays "Lithuania"^^xsd:string .
+
+iut:lithuania_2000 iut:accident "641.0"^^xsd:float ;
+    iut:annee 2000 ;
+    iut:pays "Lithuania"^^xsd:string .
+
+iut:lithuania_2001 iut:accident "706.0"^^xsd:float ;
+    iut:annee 2001 ;
+    iut:pays "Lithuania"^^xsd:string .
+
+iut:lithuania_2002 iut:accident "697.0"^^xsd:float ;
+    iut:annee 2002 ;
+    iut:pays "Lithuania"^^xsd:string .
+
+iut:lithuania_2003 iut:accident "709.0"^^xsd:float ;
+    iut:annee 2003 ;
+    iut:pays "Lithuania"^^xsd:string .
+
+iut:lithuania_2004 iut:accident "752.0"^^xsd:float ;
+    iut:annee 2004 ;
+    iut:pays "Lithuania"^^xsd:string .
+
+iut:lithuania_2005 iut:accident "773.0"^^xsd:float ;
+    iut:annee 2005 ;
+    iut:pays "Lithuania"^^xsd:string .
+
+iut:lithuania_2006 iut:accident "760.0"^^xsd:float ;
+    iut:annee 2006 ;
+    iut:pays "Lithuania"^^xsd:string .
+
+iut:lithuania_2007 iut:accident "740.0"^^xsd:float ;
+    iut:annee 2007 ;
+    iut:pays "Lithuania"^^xsd:string .
+
+iut:lithuania_2008 iut:accident "499.0"^^xsd:float ;
+    iut:annee 2008 ;
+    iut:pays "Lithuania"^^xsd:string .
+
+iut:lithuania_2009 iut:accident "370.0"^^xsd:float ;
+    iut:annee 2009 ;
+    iut:pays "Lithuania"^^xsd:string .
+
+iut:lithuania_2010 iut:accident "299.0"^^xsd:float ;
+    iut:annee 2010 ;
+    iut:pays "Lithuania"^^xsd:string .
+
+iut:lithuania_2011 iut:accident "296.0"^^xsd:float ;
+    iut:annee 2011 ;
+    iut:pays "Lithuania"^^xsd:string .
+
+iut:lithuania_2012 iut:accident "302.0"^^xsd:float ;
+    iut:annee 2012 ;
+    iut:pays "Lithuania"^^xsd:string .
+
+iut:lithuania_2013 iut:accident "256.0"^^xsd:float ;
+    iut:annee 2013 ;
+    iut:pays "Lithuania"^^xsd:string .
+
+iut:lithuania_2014 iut:accident "267.0"^^xsd:float ;
+    iut:annee 2014 ;
+    iut:pays "Lithuania"^^xsd:string .
+
+iut:lithuania_2015 iut:accident "242.0"^^xsd:float ;
+    iut:annee 2015 ;
+    iut:pays "Lithuania"^^xsd:string .
+
+iut:lithuania_2016 iut:accident "188.0"^^xsd:float ;
+    iut:annee 2016 ;
+    iut:pays "Lithuania"^^xsd:string .
+
+iut:lithuania_2017 iut:accident "191.0"^^xsd:float ;
+    iut:annee 2017 ;
+    iut:pays "Lithuania"^^xsd:string .
+
+iut:lithuania_2018 iut:accident "173.0"^^xsd:float ;
+    iut:annee 2018 ;
+    iut:pays "Lithuania"^^xsd:string .
+
+iut:lithuania_2019 iut:accident "186.0"^^xsd:float ;
+    iut:annee 2019 ;
+    iut:pays "Lithuania"^^xsd:string .
+
+iut:lithuania_2020 iut:accident "175.0"^^xsd:float ;
+    iut:annee 2020 ;
+    iut:pays "Lithuania"^^xsd:string .
+
+iut:lithuania_2021 iut:accident "148.0"^^xsd:float ;
+    iut:annee 2021 ;
+    iut:pays "Lithuania"^^xsd:string .
+
+iut:luxembourg_1999 iut:accident "58.0"^^xsd:float ;
+    iut:annee 1999 ;
+    iut:pays "Luxembourg"^^xsd:string .
+
+iut:luxembourg_2000 iut:accident "76.0"^^xsd:float ;
+    iut:annee 2000 ;
+    iut:pays "Luxembourg"^^xsd:string .
+
+iut:luxembourg_2001 iut:accident "70.0"^^xsd:float ;
+    iut:annee 2001 ;
+    iut:pays "Luxembourg"^^xsd:string .
+
+iut:luxembourg_2002 iut:accident "62.0"^^xsd:float ;
+    iut:annee 2002 ;
+    iut:pays "Luxembourg"^^xsd:string .
+
+iut:luxembourg_2003 iut:accident "53.0"^^xsd:float ;
+    iut:annee 2003 ;
+    iut:pays "Luxembourg"^^xsd:string .
+
+iut:luxembourg_2004 iut:accident "50.0"^^xsd:float ;
+    iut:annee 2004 ;
+    iut:pays "Luxembourg"^^xsd:string .
+
+iut:luxembourg_2005 iut:accident "47.0"^^xsd:float ;
+    iut:annee 2005 ;
+    iut:pays "Luxembourg"^^xsd:string .
+
+iut:luxembourg_2006 iut:accident "43.0"^^xsd:float ;
+    iut:annee 2006 ;
+    iut:pays "Luxembourg"^^xsd:string .
+
+iut:luxembourg_2007 iut:accident "46.0"^^xsd:float ;
+    iut:annee 2007 ;
+    iut:pays "Luxembourg"^^xsd:string .
+
+iut:luxembourg_2008 iut:accident "35.0"^^xsd:float ;
+    iut:annee 2008 ;
+    iut:pays "Luxembourg"^^xsd:string .
+
+iut:luxembourg_2009 iut:accident "48.0"^^xsd:float ;
+    iut:annee 2009 ;
+    iut:pays "Luxembourg"^^xsd:string .
+
+iut:luxembourg_2010 iut:accident "32.0"^^xsd:float ;
+    iut:annee 2010 ;
+    iut:pays "Luxembourg"^^xsd:string .
+
+iut:luxembourg_2011 iut:accident "33.0"^^xsd:float ;
+    iut:annee 2011 ;
+    iut:pays "Luxembourg"^^xsd:string .
+
+iut:luxembourg_2012 iut:accident "34.0"^^xsd:float ;
+    iut:annee 2012 ;
+    iut:pays "Luxembourg"^^xsd:string .
+
+iut:luxembourg_2013 iut:accident "45.0"^^xsd:float ;
+    iut:annee 2013 ;
+    iut:pays "Luxembourg"^^xsd:string .
+
+iut:luxembourg_2014 iut:accident "35.0"^^xsd:float ;
+    iut:annee 2014 ;
+    iut:pays "Luxembourg"^^xsd:string .
+
+iut:luxembourg_2015 iut:accident "36.0"^^xsd:float ;
+    iut:annee 2015 ;
+    iut:pays "Luxembourg"^^xsd:string .
+
+iut:luxembourg_2016 iut:accident "32.0"^^xsd:float ;
+    iut:annee 2016 ;
+    iut:pays "Luxembourg"^^xsd:string .
+
+iut:luxembourg_2017 iut:accident "25.0"^^xsd:float ;
+    iut:annee 2017 ;
+    iut:pays "Luxembourg"^^xsd:string .
+
+iut:luxembourg_2018 iut:accident "36.0"^^xsd:float ;
+    iut:annee 2018 ;
+    iut:pays "Luxembourg"^^xsd:string .
+
+iut:luxembourg_2019 iut:accident "22.0"^^xsd:float ;
+    iut:annee 2019 ;
+    iut:pays "Luxembourg"^^xsd:string .
+
+iut:luxembourg_2020 iut:accident "26.0"^^xsd:float ;
+    iut:annee 2020 ;
+    iut:pays "Luxembourg"^^xsd:string .
+
+iut:luxembourg_2021 iut:accident "24.0"^^xsd:float ;
+    iut:annee 2021 ;
+    iut:pays "Luxembourg"^^xsd:string .
+
+iut:malta_1999 iut:accident "4.0"^^xsd:float ;
+    iut:annee 1999 ;
+    iut:pays "Malta"^^xsd:string .
+
+iut:malta_2000 iut:accident "15.0"^^xsd:float ;
+    iut:annee 2000 ;
+    iut:pays "Malta"^^xsd:string .
+
+iut:malta_2001 iut:accident "16.0"^^xsd:float ;
+    iut:annee 2001 ;
+    iut:pays "Malta"^^xsd:string .
+
+iut:malta_2002 iut:accident "16.0"^^xsd:float ;
+    iut:annee 2002 ;
+    iut:pays "Malta"^^xsd:string .
+
+iut:malta_2003 iut:accident "16.0"^^xsd:float ;
+    iut:annee 2003 ;
+    iut:pays "Malta"^^xsd:string .
+
+iut:malta_2004 iut:accident "13.0"^^xsd:float ;
+    iut:annee 2004 ;
+    iut:pays "Malta"^^xsd:string .
+
+iut:malta_2005 iut:accident "17.0"^^xsd:float ;
+    iut:annee 2005 ;
+    iut:pays "Malta"^^xsd:string .
+
+iut:malta_2006 iut:accident "11.0"^^xsd:float ;
+    iut:annee 2006 ;
+    iut:pays "Malta"^^xsd:string .
+
+iut:malta_2007 iut:accident "12.0"^^xsd:float ;
+    iut:annee 2007 ;
+    iut:pays "Malta"^^xsd:string .
+
+iut:malta_2008 iut:accident "9.0"^^xsd:float ;
+    iut:annee 2008 ;
+    iut:pays "Malta"^^xsd:string .
+
+iut:malta_2009 iut:accident "15.0"^^xsd:float ;
+    iut:annee 2009 ;
+    iut:pays "Malta"^^xsd:string .
+
+iut:malta_2010 iut:accident "13.0"^^xsd:float ;
+    iut:annee 2010 ;
+    iut:pays "Malta"^^xsd:string .
+
+iut:malta_2011 iut:accident "16.0"^^xsd:float ;
+    iut:annee 2011 ;
+    iut:pays "Malta"^^xsd:string .
+
+iut:malta_2012 iut:accident "9.0"^^xsd:float ;
+    iut:annee 2012 ;
+    iut:pays "Malta"^^xsd:string .
+
+iut:malta_2013 iut:accident "17.0"^^xsd:float ;
+    iut:annee 2013 ;
+    iut:pays "Malta"^^xsd:string .
+
+iut:malta_2014 iut:accident "10.0"^^xsd:float ;
+    iut:annee 2014 ;
+    iut:pays "Malta"^^xsd:string .
+
+iut:malta_2015 iut:accident "11.0"^^xsd:float ;
+    iut:annee 2015 ;
+    iut:pays "Malta"^^xsd:string .
+
+iut:malta_2016 iut:accident "23.0"^^xsd:float ;
+    iut:annee 2016 ;
+    iut:pays "Malta"^^xsd:string .
+
+iut:malta_2017 iut:accident "19.0"^^xsd:float ;
+    iut:annee 2017 ;
+    iut:pays "Malta"^^xsd:string .
+
+iut:malta_2018 iut:accident "18.0"^^xsd:float ;
+    iut:annee 2018 ;
+    iut:pays "Malta"^^xsd:string .
+
+iut:malta_2019 iut:accident "16.0"^^xsd:float ;
+    iut:annee 2019 ;
+    iut:pays "Malta"^^xsd:string .
+
+iut:malta_2020 iut:accident "12.0"^^xsd:float ;
+    iut:annee 2020 ;
+    iut:pays "Malta"^^xsd:string .
+
+iut:malta_2021 iut:accident "9.0"^^xsd:float ;
+    iut:annee 2021 ;
+    iut:pays "Malta"^^xsd:string .
+
+iut:netherlands_1999 iut:accident "1090.0"^^xsd:float ;
+    iut:annee 1999 ;
+    iut:pays "Netherlands"^^xsd:string .
+
+iut:netherlands_2000 iut:accident "1082.0"^^xsd:float ;
+    iut:annee 2000 ;
+    iut:pays "Netherlands"^^xsd:string .
+
+iut:netherlands_2001 iut:accident "993.0"^^xsd:float ;
+    iut:annee 2001 ;
+    iut:pays "Netherlands"^^xsd:string .
+
+iut:netherlands_2002 iut:accident "987.0"^^xsd:float ;
+    iut:annee 2002 ;
+    iut:pays "Netherlands"^^xsd:string .
+
+iut:netherlands_2003 iut:accident "1028.0"^^xsd:float ;
+    iut:annee 2003 ;
+    iut:pays "Netherlands"^^xsd:string .
+
+iut:netherlands_2004 iut:accident "804.0"^^xsd:float ;
+    iut:annee 2004 ;
+    iut:pays "Netherlands"^^xsd:string .
+
+iut:netherlands_2005 iut:accident "750.0"^^xsd:float ;
+    iut:annee 2005 ;
+    iut:pays "Netherlands"^^xsd:string .
+
+iut:netherlands_2006 iut:accident "730.0"^^xsd:float ;
+    iut:annee 2006 ;
+    iut:pays "Netherlands"^^xsd:string .
+
+iut:netherlands_2007 iut:accident "709.0"^^xsd:float ;
+    iut:annee 2007 ;
+    iut:pays "Netherlands"^^xsd:string .
+
+iut:netherlands_2008 iut:accident "677.0"^^xsd:float ;
+    iut:annee 2008 ;
+    iut:pays "Netherlands"^^xsd:string .
+
+iut:netherlands_2009 iut:accident "644.0"^^xsd:float ;
+    iut:annee 2009 ;
+    iut:pays "Netherlands"^^xsd:string .
+
+iut:netherlands_2010 iut:accident "537.0"^^xsd:float ;
+    iut:annee 2010 ;
+    iut:pays "Netherlands"^^xsd:string .
+
+iut:netherlands_2011 iut:accident "546.0"^^xsd:float ;
+    iut:annee 2011 ;
+    iut:pays "Netherlands"^^xsd:string .
+
+iut:netherlands_2012 iut:accident "562.0"^^xsd:float ;
+    iut:annee 2012 ;
+    iut:pays "Netherlands"^^xsd:string .
+
+iut:netherlands_2013 iut:accident "476.0"^^xsd:float ;
+    iut:annee 2013 ;
+    iut:pays "Netherlands"^^xsd:string .
+
+iut:netherlands_2014 iut:accident "476.0"^^xsd:float ;
+    iut:annee 2014 ;
+    iut:pays "Netherlands"^^xsd:string .
+
+iut:netherlands_2015 iut:accident "531.0"^^xsd:float ;
+    iut:annee 2015 ;
+    iut:pays "Netherlands"^^xsd:string .
+
+iut:netherlands_2016 iut:accident "533.0"^^xsd:float ;
+    iut:annee 2016 ;
+    iut:pays "Netherlands"^^xsd:string .
+
+iut:netherlands_2017 iut:accident "535.0"^^xsd:float ;
+    iut:annee 2017 ;
+    iut:pays "Netherlands"^^xsd:string .
+
+iut:netherlands_2018 iut:accident "598.0"^^xsd:float ;
+    iut:annee 2018 ;
+    iut:pays "Netherlands"^^xsd:string .
+
+iut:netherlands_2019 iut:accident "586.0"^^xsd:float ;
+    iut:annee 2019 ;
+    iut:pays "Netherlands"^^xsd:string .
+
+iut:netherlands_2020 iut:accident "515.0"^^xsd:float ;
+    iut:annee 2020 ;
+    iut:pays "Netherlands"^^xsd:string .
+
+iut:netherlands_2021 iut:accident "509.0"^^xsd:float ;
+    iut:annee 2021 ;
+    iut:pays "Netherlands"^^xsd:string .
+
+iut:norway_1999 iut:accident "304.0"^^xsd:float ;
+    iut:annee 1999 ;
+    iut:pays "Norway"^^xsd:string .
+
+iut:norway_2000 iut:accident "341.0"^^xsd:float ;
+    iut:annee 2000 ;
+    iut:pays "Norway"^^xsd:string .
+
+iut:norway_2001 iut:accident "275.0"^^xsd:float ;
+    iut:annee 2001 ;
+    iut:pays "Norway"^^xsd:string .
+
+iut:norway_2002 iut:accident "310.0"^^xsd:float ;
+    iut:annee 2002 ;
+    iut:pays "Norway"^^xsd:string .
+
+iut:norway_2003 iut:accident "280.0"^^xsd:float ;
+    iut:annee 2003 ;
+    iut:pays "Norway"^^xsd:string .
+
+iut:norway_2004 iut:accident "257.0"^^xsd:float ;
+    iut:annee 2004 ;
+    iut:pays "Norway"^^xsd:string .
+
+iut:norway_2005 iut:accident "224.0"^^xsd:float ;
+    iut:annee 2005 ;
+    iut:pays "Norway"^^xsd:string .
+
+iut:norway_2006 iut:accident "242.0"^^xsd:float ;
+    iut:annee 2006 ;
+    iut:pays "Norway"^^xsd:string .
+
+iut:norway_2007 iut:accident "233.0"^^xsd:float ;
+    iut:annee 2007 ;
+    iut:pays "Norway"^^xsd:string .
+
+iut:norway_2008 iut:accident "255.0"^^xsd:float ;
+    iut:annee 2008 ;
+    iut:pays "Norway"^^xsd:string .
+
+iut:norway_2009 iut:accident "212.0"^^xsd:float ;
+    iut:annee 2009 ;
+    iut:pays "Norway"^^xsd:string .
+
+iut:norway_2010 iut:accident "208.0"^^xsd:float ;
+    iut:annee 2010 ;
+    iut:pays "Norway"^^xsd:string .
+
+iut:norway_2011 iut:accident "168.0"^^xsd:float ;
+    iut:annee 2011 ;
+    iut:pays "Norway"^^xsd:string .
+
+iut:norway_2012 iut:accident "145.0"^^xsd:float ;
+    iut:annee 2012 ;
+    iut:pays "Norway"^^xsd:string .
+
+iut:norway_2013 iut:accident "187.0"^^xsd:float ;
+    iut:annee 2013 ;
+    iut:pays "Norway"^^xsd:string .
+
+iut:norway_2014 iut:accident "147.0"^^xsd:float ;
+    iut:annee 2014 ;
+    iut:pays "Norway"^^xsd:string .
+
+iut:norway_2015 iut:accident "117.0"^^xsd:float ;
+    iut:annee 2015 ;
+    iut:pays "Norway"^^xsd:string .
+
+iut:norway_2016 iut:accident "135.0"^^xsd:float ;
+    iut:annee 2016 ;
+    iut:pays "Norway"^^xsd:string .
+
+iut:norway_2017 iut:accident "106.0"^^xsd:float ;
+    iut:annee 2017 ;
+    iut:pays "Norway"^^xsd:string .
+
+iut:norway_2018 iut:accident "108.0"^^xsd:float ;
+    iut:annee 2018 ;
+    iut:pays "Norway"^^xsd:string .
+
+iut:norway_2019 iut:accident "108.0"^^xsd:float ;
+    iut:annee 2019 ;
+    iut:pays "Norway"^^xsd:string .
+
+iut:norway_2020 iut:accident "93.0"^^xsd:float ;
+    iut:annee 2020 ;
+    iut:pays "Norway"^^xsd:string .
+
+iut:norway_2021 iut:accident "80.0"^^xsd:float ;
+    iut:annee 2021 ;
+    iut:pays "Norway"^^xsd:string .
+
+iut:poland_1999 iut:accident "6730.0"^^xsd:float ;
+    iut:annee 1999 ;
+    iut:pays "Poland"^^xsd:string .
+
+iut:poland_2000 iut:accident "6294.0"^^xsd:float ;
+    iut:annee 2000 ;
+    iut:pays "Poland"^^xsd:string .
+
+iut:poland_2001 iut:accident "5534.0"^^xsd:float ;
+    iut:annee 2001 ;
+    iut:pays "Poland"^^xsd:string .
+
+iut:poland_2002 iut:accident "5826.0"^^xsd:float ;
+    iut:annee 2002 ;
+    iut:pays "Poland"^^xsd:string .
+
+iut:poland_2003 iut:accident "5642.0"^^xsd:float ;
+    iut:annee 2003 ;
+    iut:pays "Poland"^^xsd:string .
+
+iut:poland_2004 iut:accident "5712.0"^^xsd:float ;
+    iut:annee 2004 ;
+    iut:pays "Poland"^^xsd:string .
+
+iut:poland_2005 iut:accident "5444.0"^^xsd:float ;
+    iut:annee 2005 ;
+    iut:pays "Poland"^^xsd:string .
+
+iut:poland_2006 iut:accident "5243.0"^^xsd:float ;
+    iut:annee 2006 ;
+    iut:pays "Poland"^^xsd:string .
+
+iut:poland_2007 iut:accident "5583.0"^^xsd:float ;
+    iut:annee 2007 ;
+    iut:pays "Poland"^^xsd:string .
+
+iut:poland_2008 iut:accident "5437.0"^^xsd:float ;
+    iut:annee 2008 ;
+    iut:pays "Poland"^^xsd:string .
+
+iut:poland_2009 iut:accident "4572.0"^^xsd:float ;
+    iut:annee 2009 ;
+    iut:pays "Poland"^^xsd:string .
+
+iut:poland_2010 iut:accident "3908.0"^^xsd:float ;
+    iut:annee 2010 ;
+    iut:pays "Poland"^^xsd:string .
+
+iut:poland_2011 iut:accident "4189.0"^^xsd:float ;
+    iut:annee 2011 ;
+    iut:pays "Poland"^^xsd:string .
+
+iut:poland_2012 iut:accident "3571.0"^^xsd:float ;
+    iut:annee 2012 ;
+    iut:pays "Poland"^^xsd:string .
+
+iut:poland_2013 iut:accident "3357.0"^^xsd:float ;
+    iut:annee 2013 ;
+    iut:pays "Poland"^^xsd:string .
+
+iut:poland_2014 iut:accident "3202.0"^^xsd:float ;
+    iut:annee 2014 ;
+    iut:pays "Poland"^^xsd:string .
+
+iut:poland_2015 iut:accident "2938.0"^^xsd:float ;
+    iut:annee 2015 ;
+    iut:pays "Poland"^^xsd:string .
+
+iut:poland_2016 iut:accident "3026.0"^^xsd:float ;
+    iut:annee 2016 ;
+    iut:pays "Poland"^^xsd:string .
+
+iut:poland_2017 iut:accident "2831.0"^^xsd:float ;
+    iut:annee 2017 ;
+    iut:pays "Poland"^^xsd:string .
+
+iut:poland_2018 iut:accident "2862.0"^^xsd:float ;
+    iut:annee 2018 ;
+    iut:pays "Poland"^^xsd:string .
+
+iut:poland_2019 iut:accident "2909.0"^^xsd:float ;
+    iut:annee 2019 ;
+    iut:pays "Poland"^^xsd:string .
+
+iut:poland_2020 iut:accident "2491.0"^^xsd:float ;
+    iut:annee 2020 ;
+    iut:pays "Poland"^^xsd:string .
+
+iut:poland_2021 iut:accident "2245.0"^^xsd:float ;
+    iut:annee 2021 ;
+    iut:pays "Poland"^^xsd:string .
+
+iut:portugal_1999 iut:accident "1972.0"^^xsd:float ;
+    iut:annee 1999 ;
+    iut:pays "Portugal"^^xsd:string .
+
+iut:portugal_2000 iut:accident "1836.0"^^xsd:float ;
+    iut:annee 2000 ;
+    iut:pays "Portugal"^^xsd:string .
+
+iut:portugal_2001 iut:accident "1655.0"^^xsd:float ;
+    iut:annee 2001 ;
+    iut:pays "Portugal"^^xsd:string .
+
+iut:portugal_2002 iut:accident "1653.0"^^xsd:float ;
+    iut:annee 2002 ;
+    iut:pays "Portugal"^^xsd:string .
+
+iut:portugal_2003 iut:accident "1523.0"^^xsd:float ;
+    iut:annee 2003 ;
+    iut:pays "Portugal"^^xsd:string .
+
+iut:portugal_2004 iut:accident "1283.0"^^xsd:float ;
+    iut:annee 2004 ;
+    iut:pays "Portugal"^^xsd:string .
+
+iut:portugal_2005 iut:accident "1228.0"^^xsd:float ;
+    iut:annee 2005 ;
+    iut:pays "Portugal"^^xsd:string .
+
+iut:portugal_2006 iut:accident "949.0"^^xsd:float ;
+    iut:annee 2006 ;
+    iut:pays "Portugal"^^xsd:string .
+
+iut:portugal_2007 iut:accident "958.0"^^xsd:float ;
+    iut:annee 2007 ;
+    iut:pays "Portugal"^^xsd:string .
+
+iut:portugal_2008 iut:accident "867.0"^^xsd:float ;
+    iut:annee 2008 ;
+    iut:pays "Portugal"^^xsd:string .
+
+iut:portugal_2009 iut:accident "823.0"^^xsd:float ;
+    iut:annee 2009 ;
+    iut:pays "Portugal"^^xsd:string .
+
+iut:portugal_2010 iut:accident "937.0"^^xsd:float ;
+    iut:annee 2010 ;
+    iut:pays "Portugal"^^xsd:string .
+
+iut:portugal_2011 iut:accident "891.0"^^xsd:float ;
+    iut:annee 2011 ;
+    iut:pays "Portugal"^^xsd:string .
+
+iut:portugal_2012 iut:accident "718.0"^^xsd:float ;
+    iut:annee 2012 ;
+    iut:pays "Portugal"^^xsd:string .
+
+iut:portugal_2013 iut:accident "637.0"^^xsd:float ;
+    iut:annee 2013 ;
+    iut:pays "Portugal"^^xsd:string .
+
+iut:portugal_2014 iut:accident "638.0"^^xsd:float ;
+    iut:annee 2014 ;
+    iut:pays "Portugal"^^xsd:string .
+
+iut:portugal_2015 iut:accident "593.0"^^xsd:float ;
+    iut:annee 2015 ;
+    iut:pays "Portugal"^^xsd:string .
+
+iut:portugal_2016 iut:accident "563.0"^^xsd:float ;
+    iut:annee 2016 ;
+    iut:pays "Portugal"^^xsd:string .
+
+iut:portugal_2017 iut:accident "602.0"^^xsd:float ;
+    iut:annee 2017 ;
+    iut:pays "Portugal"^^xsd:string .
+
+iut:portugal_2018 iut:accident "700.0"^^xsd:float ;
+    iut:annee 2018 ;
+    iut:pays "Portugal"^^xsd:string .
+
+iut:portugal_2019 iut:accident "688.0"^^xsd:float ;
+    iut:annee 2019 ;
+    iut:pays "Portugal"^^xsd:string .
+
+iut:portugal_2020 iut:accident "536.0"^^xsd:float ;
+    iut:annee 2020 ;
+    iut:pays "Portugal"^^xsd:string .
+
+iut:portugal_2021 iut:accident "561.0"^^xsd:float ;
+    iut:annee 2021 ;
+    iut:pays "Portugal"^^xsd:string .
+
+iut:romania_1999 iut:accident "2468.0"^^xsd:float ;
+    iut:annee 1999 ;
+    iut:pays "Romania"^^xsd:string .
+
+iut:romania_2000 iut:accident "2466.0"^^xsd:float ;
+    iut:annee 2000 ;
+    iut:pays "Romania"^^xsd:string .
+
+iut:romania_2001 iut:accident "2450.0"^^xsd:float ;
+    iut:annee 2001 ;
+    iut:pays "Romania"^^xsd:string .
+
+iut:romania_2002 iut:accident "2411.0"^^xsd:float ;
+    iut:annee 2002 ;
+    iut:pays "Romania"^^xsd:string .
+
+iut:romania_2003 iut:accident "2229.0"^^xsd:float ;
+    iut:annee 2003 ;
+    iut:pays "Romania"^^xsd:string .
+
+iut:romania_2004 iut:accident "2442.0"^^xsd:float ;
+    iut:annee 2004 ;
+    iut:pays "Romania"^^xsd:string .
+
+iut:romania_2005 iut:accident "2629.0"^^xsd:float ;
+    iut:annee 2005 ;
+    iut:pays "Romania"^^xsd:string .
+
+iut:romania_2006 iut:accident "2587.0"^^xsd:float ;
+    iut:annee 2006 ;
+    iut:pays "Romania"^^xsd:string .
+
+iut:romania_2007 iut:accident "2800.0"^^xsd:float ;
+    iut:annee 2007 ;
+    iut:pays "Romania"^^xsd:string .
+
+iut:romania_2008 iut:accident "3065.0"^^xsd:float ;
+    iut:annee 2008 ;
+    iut:pays "Romania"^^xsd:string .
+
+iut:romania_2009 iut:accident "2796.0"^^xsd:float ;
+    iut:annee 2009 ;
+    iut:pays "Romania"^^xsd:string .
+
+iut:romania_2010 iut:accident "2377.0"^^xsd:float ;
+    iut:annee 2010 ;
+    iut:pays "Romania"^^xsd:string .
+
+iut:romania_2011 iut:accident "2017.9999999999998"^^xsd:float ;
+    iut:annee 2011 ;
+    iut:pays "Romania"^^xsd:string .
+
+iut:romania_2012 iut:accident "2041.9999999999998"^^xsd:float ;
+    iut:annee 2012 ;
+    iut:pays "Romania"^^xsd:string .
+
+iut:romania_2013 iut:accident "1861.0"^^xsd:float ;
+    iut:annee 2013 ;
+    iut:pays "Romania"^^xsd:string .
+
+iut:romania_2014 iut:accident "1818.0"^^xsd:float ;
+    iut:annee 2014 ;
+    iut:pays "Romania"^^xsd:string .
+
+iut:romania_2015 iut:accident "1893.0"^^xsd:float ;
+    iut:annee 2015 ;
+    iut:pays "Romania"^^xsd:string .
+
+iut:romania_2016 iut:accident "1913.0"^^xsd:float ;
+    iut:annee 2016 ;
+    iut:pays "Romania"^^xsd:string .
+
+iut:romania_2017 iut:accident "1951.0"^^xsd:float ;
+    iut:annee 2017 ;
+    iut:pays "Romania"^^xsd:string .
+
+iut:romania_2018 iut:accident "1867.0"^^xsd:float ;
+    iut:annee 2018 ;
+    iut:pays "Romania"^^xsd:string .
+
+iut:romania_2019 iut:accident "1864.0"^^xsd:float ;
+    iut:annee 2019 ;
+    iut:pays "Romania"^^xsd:string .
+
+iut:romania_2020 iut:accident "1644.0"^^xsd:float ;
+    iut:annee 2020 ;
+    iut:pays "Romania"^^xsd:string .
+
+iut:romania_2021 iut:accident "1779.0"^^xsd:float ;
+    iut:annee 2021 ;
+    iut:pays "Romania"^^xsd:string .
+
+iut:slovakia_1999 iut:accident "647.0"^^xsd:float ;
+    iut:annee 1999 ;
+    iut:pays "Slovakia"^^xsd:string .
+
+iut:slovakia_2000 iut:accident "628.0"^^xsd:float ;
+    iut:annee 2000 ;
+    iut:pays "Slovakia"^^xsd:string .
+
+iut:slovakia_2001 iut:accident "625.0"^^xsd:float ;
+    iut:annee 2001 ;
+    iut:pays "Slovakia"^^xsd:string .
+
+iut:slovakia_2002 iut:accident "625.0"^^xsd:float ;
+    iut:annee 2002 ;
+    iut:pays "Slovakia"^^xsd:string .
+
+iut:slovakia_2003 iut:accident "653.0"^^xsd:float ;
+    iut:annee 2003 ;
+    iut:pays "Slovakia"^^xsd:string .
+
+iut:slovakia_2004 iut:accident "608.0"^^xsd:float ;
+    iut:annee 2004 ;
+    iut:pays "Slovakia"^^xsd:string .
+
+iut:slovakia_2005 iut:accident "606.0"^^xsd:float ;
+    iut:annee 2005 ;
+    iut:pays "Slovakia"^^xsd:string .
+
+iut:slovakia_2006 iut:accident "614.0"^^xsd:float ;
+    iut:annee 2006 ;
+    iut:pays "Slovakia"^^xsd:string .
+
+iut:slovakia_2007 iut:accident "661.0"^^xsd:float ;
+    iut:annee 2007 ;
+    iut:pays "Slovakia"^^xsd:string .
+
+iut:slovakia_2008 iut:accident "606.0"^^xsd:float ;
+    iut:annee 2008 ;
+    iut:pays "Slovakia"^^xsd:string .
+
+iut:slovakia_2009 iut:accident "384.0"^^xsd:float ;
+    iut:annee 2009 ;
+    iut:pays "Slovakia"^^xsd:string .
+
+iut:slovakia_2010 iut:accident "371.0"^^xsd:float ;
+    iut:annee 2010 ;
+    iut:pays "Slovakia"^^xsd:string .
+
+iut:slovakia_2011 iut:accident "325.0"^^xsd:float ;
+    iut:annee 2011 ;
+    iut:pays "Slovakia"^^xsd:string .
+
+iut:slovakia_2012 iut:accident "352.0"^^xsd:float ;
+    iut:annee 2012 ;
+    iut:pays "Slovakia"^^xsd:string .
+
+iut:slovakia_2013 iut:accident "251.0"^^xsd:float ;
+    iut:annee 2013 ;
+    iut:pays "Slovakia"^^xsd:string .
+
+iut:slovakia_2014 iut:accident "295.0"^^xsd:float ;
+    iut:annee 2014 ;
+    iut:pays "Slovakia"^^xsd:string .
+
+iut:slovakia_2015 iut:accident "310.0"^^xsd:float ;
+    iut:annee 2015 ;
+    iut:pays "Slovakia"^^xsd:string .
+
+iut:slovakia_2016 iut:accident "275.0"^^xsd:float ;
+    iut:annee 2016 ;
+    iut:pays "Slovakia"^^xsd:string .
+
+iut:slovakia_2017 iut:accident "276.0"^^xsd:float ;
+    iut:annee 2017 ;
+    iut:pays "Slovakia"^^xsd:string .
+
+iut:slovakia_2018 iut:accident "260.0"^^xsd:float ;
+    iut:annee 2018 ;
+    iut:pays "Slovakia"^^xsd:string .
+
+iut:slovakia_2019 iut:accident "270.0"^^xsd:float ;
+    iut:annee 2019 ;
+    iut:pays "Slovakia"^^xsd:string .
+
+iut:slovakia_2020 iut:accident "247.0"^^xsd:float ;
+    iut:annee 2020 ;
+    iut:pays "Slovakia"^^xsd:string .
+
+iut:slovakia_2021 iut:accident "247.0"^^xsd:float ;
+    iut:annee 2021 ;
+    iut:pays "Slovakia"^^xsd:string .
+
+iut:slovenia_1999 iut:accident "334.0"^^xsd:float ;
+    iut:annee 1999 ;
+    iut:pays "Slovenia"^^xsd:string .
+
+iut:slovenia_2000 iut:accident "314.0"^^xsd:float ;
+    iut:annee 2000 ;
+    iut:pays "Slovenia"^^xsd:string .
+
+iut:slovenia_2001 iut:accident "278.0"^^xsd:float ;
+    iut:annee 2001 ;
+    iut:pays "Slovenia"^^xsd:string .
+
+iut:slovenia_2002 iut:accident "269.0"^^xsd:float ;
+    iut:annee 2002 ;
+    iut:pays "Slovenia"^^xsd:string .
+
+iut:slovenia_2003 iut:accident "242.0"^^xsd:float ;
+    iut:annee 2003 ;
+    iut:pays "Slovenia"^^xsd:string .
+
+iut:slovenia_2004 iut:accident "274.0"^^xsd:float ;
+    iut:annee 2004 ;
+    iut:pays "Slovenia"^^xsd:string .
+
+iut:slovenia_2005 iut:accident "258.0"^^xsd:float ;
+    iut:annee 2005 ;
+    iut:pays "Slovenia"^^xsd:string .
+
+iut:slovenia_2006 iut:accident "262.0"^^xsd:float ;
+    iut:annee 2006 ;
+    iut:pays "Slovenia"^^xsd:string .
+
+iut:slovenia_2007 iut:accident "293.0"^^xsd:float ;
+    iut:annee 2007 ;
+    iut:pays "Slovenia"^^xsd:string .
+
+iut:slovenia_2008 iut:accident "214.0"^^xsd:float ;
+    iut:annee 2008 ;
+    iut:pays "Slovenia"^^xsd:string .
+
+iut:slovenia_2009 iut:accident "171.0"^^xsd:float ;
+    iut:annee 2009 ;
+    iut:pays "Slovenia"^^xsd:string .
+
+iut:slovenia_2010 iut:accident "138.0"^^xsd:float ;
+    iut:annee 2010 ;
+    iut:pays "Slovenia"^^xsd:string .
+
+iut:slovenia_2011 iut:accident "141.0"^^xsd:float ;
+    iut:annee 2011 ;
+    iut:pays "Slovenia"^^xsd:string .
+
+iut:slovenia_2012 iut:accident "130.0"^^xsd:float ;
+    iut:annee 2012 ;
+    iut:pays "Slovenia"^^xsd:string .
+
+iut:slovenia_2013 iut:accident "125.0"^^xsd:float ;
+    iut:annee 2013 ;
+    iut:pays "Slovenia"^^xsd:string .
+
+iut:slovenia_2014 iut:accident "108.0"^^xsd:float ;
+    iut:annee 2014 ;
+    iut:pays "Slovenia"^^xsd:string .
+
+iut:slovenia_2015 iut:accident "120.0"^^xsd:float ;
+    iut:annee 2015 ;
+    iut:pays "Slovenia"^^xsd:string .
+
+iut:slovenia_2016 iut:accident "130.0"^^xsd:float ;
+    iut:annee 2016 ;
+    iut:pays "Slovenia"^^xsd:string .
+
+iut:slovenia_2017 iut:accident "104.0"^^xsd:float ;
+    iut:annee 2017 ;
+    iut:pays "Slovenia"^^xsd:string .
+
+iut:slovenia_2018 iut:accident "91.0"^^xsd:float ;
+    iut:annee 2018 ;
+    iut:pays "Slovenia"^^xsd:string .
+
+iut:slovenia_2019 iut:accident "102.0"^^xsd:float ;
+    iut:annee 2019 ;
+    iut:pays "Slovenia"^^xsd:string .
+
+iut:slovenia_2020 iut:accident "80.0"^^xsd:float ;
+    iut:annee 2020 ;
+    iut:pays "Slovenia"^^xsd:string .
+
+iut:slovenia_2021 iut:accident "114.0"^^xsd:float ;
+    iut:annee 2021 ;
+    iut:pays "Slovenia"^^xsd:string .
+
+iut:spain_1999 iut:accident "5709.0"^^xsd:float ;
+    iut:annee 1999 ;
+    iut:pays "Spain"^^xsd:string .
+
+iut:spain_2000 iut:accident "5746.0"^^xsd:float ;
+    iut:annee 2000 ;
+    iut:pays "Spain"^^xsd:string .
+
+iut:spain_2001 iut:accident "5478.0"^^xsd:float ;
+    iut:annee 2001 ;
+    iut:pays "Spain"^^xsd:string .
+
+iut:spain_2002 iut:accident "5312.0"^^xsd:float ;
+    iut:annee 2002 ;
+    iut:pays "Spain"^^xsd:string .
+
+iut:spain_2003 iut:accident "5373.0"^^xsd:float ;
+    iut:annee 2003 ;
+    iut:pays "Spain"^^xsd:string .
+
+iut:spain_2004 iut:accident "4715.0"^^xsd:float ;
+    iut:annee 2004 ;
+    iut:pays "Spain"^^xsd:string .
+
+iut:spain_2005 iut:accident "4406.0"^^xsd:float ;
+    iut:annee 2005 ;
+    iut:pays "Spain"^^xsd:string .
+
+iut:spain_2006 iut:accident "4069.0"^^xsd:float ;
+    iut:annee 2006 ;
+    iut:pays "Spain"^^xsd:string .
+
+iut:spain_2007 iut:accident "3785.0"^^xsd:float ;
+    iut:annee 2007 ;
+    iut:pays "Spain"^^xsd:string .
+
+iut:spain_2008 iut:accident "3064.0"^^xsd:float ;
+    iut:annee 2008 ;
+    iut:pays "Spain"^^xsd:string .
+
+iut:spain_2009 iut:accident "2687.0"^^xsd:float ;
+    iut:annee 2009 ;
+    iut:pays "Spain"^^xsd:string .
+
+iut:spain_2010 iut:accident "2444.0"^^xsd:float ;
+    iut:annee 2010 ;
+    iut:pays "Spain"^^xsd:string .
+
+iut:spain_2011 iut:accident "2041.9999999999998"^^xsd:float ;
+    iut:annee 2011 ;
+    iut:pays "Spain"^^xsd:string .
+
+iut:spain_2012 iut:accident "1889.0"^^xsd:float ;
+    iut:annee 2012 ;
+    iut:pays "Spain"^^xsd:string .
+
+iut:spain_2013 iut:accident "1667.0"^^xsd:float ;
+    iut:annee 2013 ;
+    iut:pays "Spain"^^xsd:string .
+
+iut:spain_2014 iut:accident "1680.0"^^xsd:float ;
+    iut:annee 2014 ;
+    iut:pays "Spain"^^xsd:string .
+
+iut:spain_2015 iut:accident "1689.0"^^xsd:float ;
+    iut:annee 2015 ;
+    iut:pays "Spain"^^xsd:string .
+
+iut:spain_2016 iut:accident "1810.0"^^xsd:float ;
+    iut:annee 2016 ;
+    iut:pays "Spain"^^xsd:string .
+
+iut:spain_2017 iut:accident "1830.0"^^xsd:float ;
+    iut:annee 2017 ;
+    iut:pays "Spain"^^xsd:string .
+
+iut:spain_2018 iut:accident "1806.0"^^xsd:float ;
+    iut:annee 2018 ;
+    iut:pays "Spain"^^xsd:string .
+
+iut:spain_2019 iut:accident "1755.0"^^xsd:float ;
+    iut:annee 2019 ;
+    iut:pays "Spain"^^xsd:string .
+
+iut:spain_2020 iut:accident "1370.0"^^xsd:float ;
+    iut:annee 2020 ;
+    iut:pays "Spain"^^xsd:string .
+
+iut:spain_2021 iut:accident "1533.0"^^xsd:float ;
+    iut:annee 2021 ;
+    iut:pays "Spain"^^xsd:string .
+
+iut:sweden_1999 iut:accident "580.0"^^xsd:float ;
+    iut:annee 1999 ;
+    iut:pays "Sweden"^^xsd:string .
+
+iut:sweden_2000 iut:accident "591.0"^^xsd:float ;
+    iut:annee 2000 ;
+    iut:pays "Sweden"^^xsd:string .
+
+iut:sweden_2001 iut:accident "583.0"^^xsd:float ;
+    iut:annee 2001 ;
+    iut:pays "Sweden"^^xsd:string .
+
+iut:sweden_2002 iut:accident "560.0"^^xsd:float ;
+    iut:annee 2002 ;
+    iut:pays "Sweden"^^xsd:string .
+
+iut:sweden_2003 iut:accident "529.0"^^xsd:float ;
+    iut:annee 2003 ;
+    iut:pays "Sweden"^^xsd:string .
+
+iut:sweden_2004 iut:accident "480.0"^^xsd:float ;
+    iut:annee 2004 ;
+    iut:pays "Sweden"^^xsd:string .
+
+iut:sweden_2005 iut:accident "440.0"^^xsd:float ;
+    iut:annee 2005 ;
+    iut:pays "Sweden"^^xsd:string .
+
+iut:sweden_2006 iut:accident "445.0"^^xsd:float ;
+    iut:annee 2006 ;
+    iut:pays "Sweden"^^xsd:string .
+
+iut:sweden_2007 iut:accident "471.0"^^xsd:float ;
+    iut:annee 2007 ;
+    iut:pays "Sweden"^^xsd:string .
+
+iut:sweden_2008 iut:accident "397.0"^^xsd:float ;
+    iut:annee 2008 ;
+    iut:pays "Sweden"^^xsd:string .
+
+iut:sweden_2009 iut:accident "358.0"^^xsd:float ;
+    iut:annee 2009 ;
+    iut:pays "Sweden"^^xsd:string .
+
+iut:sweden_2010 iut:accident "266.0"^^xsd:float ;
+    iut:annee 2010 ;
+    iut:pays "Sweden"^^xsd:string .
+
+iut:sweden_2011 iut:accident "319.0"^^xsd:float ;
+    iut:annee 2011 ;
+    iut:pays "Sweden"^^xsd:string .
+
+iut:sweden_2012 iut:accident "285.0"^^xsd:float ;
+    iut:annee 2012 ;
+    iut:pays "Sweden"^^xsd:string .
+
+iut:sweden_2013 iut:accident "260.0"^^xsd:float ;
+    iut:annee 2013 ;
+    iut:pays "Sweden"^^xsd:string .
+
+iut:sweden_2014 iut:accident "270.0"^^xsd:float ;
+    iut:annee 2014 ;
+    iut:pays "Sweden"^^xsd:string .
+
+iut:sweden_2015 iut:accident "259.0"^^xsd:float ;
+    iut:annee 2015 ;
+    iut:pays "Sweden"^^xsd:string .
+
+iut:sweden_2016 iut:accident "270.0"^^xsd:float ;
+    iut:annee 2016 ;
+    iut:pays "Sweden"^^xsd:string .
+
+iut:sweden_2017 iut:accident "253.0"^^xsd:float ;
+    iut:annee 2017 ;
+    iut:pays "Sweden"^^xsd:string .
+
+iut:sweden_2018 iut:accident "324.0"^^xsd:float ;
+    iut:annee 2018 ;
+    iut:pays "Sweden"^^xsd:string .
+
+iut:sweden_2019 iut:accident "221.0"^^xsd:float ;
+    iut:annee 2019 ;
+    iut:pays "Sweden"^^xsd:string .
+
+iut:sweden_2020 iut:accident "204.0"^^xsd:float ;
+    iut:annee 2020 ;
+    iut:pays "Sweden"^^xsd:string .
+
+iut:sweden_2021 iut:accident "210.0"^^xsd:float ;
+    iut:annee 2021 ;
+    iut:pays "Sweden"^^xsd:string .
+
+iut:switzerland_1999 iut:accident "583.0"^^xsd:float ;
+    iut:annee 1999 ;
+    iut:pays "Switzerland"^^xsd:string .
+
+iut:switzerland_2000 iut:accident "592.0"^^xsd:float ;
+    iut:annee 2000 ;
+    iut:pays "Switzerland"^^xsd:string .
+
+iut:switzerland_2001 iut:accident "544.0"^^xsd:float ;
+    iut:annee 2001 ;
+    iut:pays "Switzerland"^^xsd:string .
+
+iut:switzerland_2002 iut:accident "513.0"^^xsd:float ;
+    iut:annee 2002 ;
+    iut:pays "Switzerland"^^xsd:string .
+
+iut:switzerland_2003 iut:accident "546.0"^^xsd:float ;
+    iut:annee 2003 ;
+    iut:pays "Switzerland"^^xsd:string .
+
+iut:switzerland_2004 iut:accident "510.0"^^xsd:float ;
+    iut:annee 2004 ;
+    iut:pays "Switzerland"^^xsd:string .
+
+iut:switzerland_2005 iut:accident "409.0"^^xsd:float ;
+    iut:annee 2005 ;
+    iut:pays "Switzerland"^^xsd:string .
+
+iut:switzerland_2006 iut:accident "370.0"^^xsd:float ;
+    iut:annee 2006 ;
+    iut:pays "Switzerland"^^xsd:string .
+
+iut:switzerland_2007 iut:accident "384.0"^^xsd:float ;
+    iut:annee 2007 ;
+    iut:pays "Switzerland"^^xsd:string .
+
+iut:switzerland_2008 iut:accident "357.0"^^xsd:float ;
+    iut:annee 2008 ;
+    iut:pays "Switzerland"^^xsd:string .
+
+iut:switzerland_2009 iut:accident "349.0"^^xsd:float ;
+    iut:annee 2009 ;
+    iut:pays "Switzerland"^^xsd:string .
+
+iut:switzerland_2010 iut:accident "327.0"^^xsd:float ;
+    iut:annee 2010 ;
+    iut:pays "Switzerland"^^xsd:string .
+
+iut:switzerland_2011 iut:accident "320.0"^^xsd:float ;
+    iut:annee 2011 ;
+    iut:pays "Switzerland"^^xsd:string .
+
+iut:switzerland_2012 iut:accident "339.0"^^xsd:float ;
+    iut:annee 2012 ;
+    iut:pays "Switzerland"^^xsd:string .
+
+iut:switzerland_2013 iut:accident "269.0"^^xsd:float ;
+    iut:annee 2013 ;
+    iut:pays "Switzerland"^^xsd:string .
+
+iut:switzerland_2014 iut:accident "243.0"^^xsd:float ;
+    iut:annee 2014 ;
+    iut:pays "Switzerland"^^xsd:string .
+
+iut:switzerland_2015 iut:accident "253.0"^^xsd:float ;
+    iut:annee 2015 ;
+    iut:pays "Switzerland"^^xsd:string .
+
+iut:switzerland_2016 iut:accident "216.0"^^xsd:float ;
+    iut:annee 2016 ;
+    iut:pays "Switzerland"^^xsd:string .
+
+iut:switzerland_2017 iut:accident "230.0"^^xsd:float ;
+    iut:annee 2017 ;
+    iut:pays "Switzerland"^^xsd:string .
+
+iut:switzerland_2018 iut:accident "233.0"^^xsd:float ;
+    iut:annee 2018 ;
+    iut:pays "Switzerland"^^xsd:string .
+
+iut:switzerland_2019 iut:accident "187.0"^^xsd:float ;
+    iut:annee 2019 ;
+    iut:pays "Switzerland"^^xsd:string .
+
+iut:switzerland_2020 iut:accident "227.0"^^xsd:float ;
+    iut:annee 2020 ;
+    iut:pays "Switzerland"^^xsd:string .
+
+iut:switzerland_2021 iut:accident "200.0"^^xsd:float ;
+    iut:annee 2021 ;
+    iut:pays "Switzerland"^^xsd:string .
+
+iut:united_kingdom_1999 iut:accident "3564.0"^^xsd:float ;
+    iut:annee 1999 ;
+    iut:pays "United Kingdom"^^xsd:string .
+
+iut:united_kingdom_2000 iut:accident "3580.0"^^xsd:float ;
+    iut:annee 2000 ;
+    iut:pays "United Kingdom"^^xsd:string .
+
+iut:united_kingdom_2001 iut:accident "3598.0"^^xsd:float ;
+    iut:annee 2001 ;
+    iut:pays "United Kingdom"^^xsd:string .
+
+iut:united_kingdom_2002 iut:accident "3581.0"^^xsd:float ;
+    iut:annee 2002 ;
+    iut:pays "United Kingdom"^^xsd:string .
+
+iut:united_kingdom_2003 iut:accident "3658.0"^^xsd:float ;
+    iut:annee 2003 ;
+    iut:pays "United Kingdom"^^xsd:string .
+
+iut:united_kingdom_2004 iut:accident "3368.0"^^xsd:float ;
+    iut:annee 2004 ;
+    iut:pays "United Kingdom"^^xsd:string .
+
+iut:united_kingdom_2005 iut:accident "3336.0"^^xsd:float ;
+    iut:annee 2005 ;
+    iut:pays "United Kingdom"^^xsd:string .
+
+iut:united_kingdom_2006 iut:accident "3298.0"^^xsd:float ;
+    iut:annee 2006 ;
+    iut:pays "United Kingdom"^^xsd:string .
+
+iut:united_kingdom_2007 iut:accident "3059.0"^^xsd:float ;
+    iut:annee 2007 ;
+    iut:pays "United Kingdom"^^xsd:string .
+
+iut:united_kingdom_2008 iut:accident "2645.0"^^xsd:float ;
+    iut:annee 2008 ;
+    iut:pays "United Kingdom"^^xsd:string .
+
+iut:united_kingdom_2009 iut:accident "2337.0"^^xsd:float ;
+    iut:annee 2009 ;
+    iut:pays "United Kingdom"^^xsd:string .
+
+iut:united_kingdom_2010 iut:accident "1905.0"^^xsd:float ;
+    iut:annee 2010 ;
+    iut:pays "United Kingdom"^^xsd:string .
+
+iut:united_kingdom_2011 iut:accident "1960.0"^^xsd:float ;
+    iut:annee 2011 ;
+    iut:pays "United Kingdom"^^xsd:string .
+
+iut:united_kingdom_2012 iut:accident "1802.0"^^xsd:float ;
+    iut:annee 2012 ;
+    iut:pays "United Kingdom"^^xsd:string .
+
+iut:united_kingdom_2013 iut:accident "1770.0"^^xsd:float ;
+    iut:annee 2013 ;
+    iut:pays "United Kingdom"^^xsd:string .
+
+iut:united_kingdom_2014 iut:accident "1854.0"^^xsd:float ;
+    iut:annee 2014 ;
+    iut:pays "United Kingdom"^^xsd:string .
+
+iut:united_kingdom_2015 iut:accident "1804.0"^^xsd:float ;
+    iut:annee 2015 ;
+    iut:pays "United Kingdom"^^xsd:string .
+
+iut:united_kingdom_2016 iut:accident "1860.0"^^xsd:float ;
+    iut:annee 2016 ;
+    iut:pays "United Kingdom"^^xsd:string .
+
+iut:united_kingdom_2017 iut:accident "1856.0"^^xsd:float ;
+    iut:annee 2017 ;
+    iut:pays "United Kingdom"^^xsd:string .
+
+iut:united_kingdom_2018 iut:accident "1839.0"^^xsd:float ;
+    iut:annee 2018 ;
+    iut:pays "United Kingdom"^^xsd:string .
+
+iut:united_kingdom_2019 iut:accident "1836.0"^^xsd:float ;
+    iut:annee 2019 ;
+    iut:pays "United Kingdom"^^xsd:string .
+
+iut:united_kingdom_2020 iut:accident "1827.0"^^xsd:float ;
+    iut:annee 2020 ;
+    iut:pays "United Kingdom"^^xsd:string .
+
+iut:united_kingdom_2021 iut:accident "1810.0"^^xsd:float ;
+    iut:annee 2021 ;
+    iut:pays "United Kingdom"^^xsd:string .
+

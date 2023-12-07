@@ -1,54 +1,8 @@
-import json
-import web
 from rdflib import Graph
 import requests
 
-urls = (
-    '/api', 'Index',
-)
 
-class Index:
-    def OPTIONS(self):
-        web.header('Access-Control-Allow-Origin', '*')
-        web.header('Access-Control-Allow-Methods', 'POST, OPTIONS')
-        web.header('Access-Control-Allow-Headers', 'Content-Type')
-        return
-    
-    def POST(self):
-        web.header('Access-Control-Allow-Origin', '*')  
-        try:
-            year = json.loads(web.data().decode("utf-8"))['year']
-            # check if year is an integer between 1999 and 2021
-            if not isinstance(year, int) or year < 1999 or year > 2021:
-                web.ctx.status = '400 Bad Request'
-                return json.dumps({
-                    "status": "error",
-                    "message": "year must be an integer between 1999 and 2021"
-                })
-            try:
-                result = make_sparql_request(year)
-                return json.dumps({
-                    "status": "success",
-                    "data": result
-                })
-            except Exception as e:
-                web.ctx.status = '500 Internal Server Error'
-                return json.dumps({
-                    "status": "error",
-                    "message": str(e)
-                })
-        except Exception as e:
-            web.ctx.status = '400 Bad Request'
-            return json.dumps({
-                "status": "error",
-                "message": str(e)
-            })
-
-    if __name__ == "__main__":
-        app = web.application(urls, globals())
-        app.run()
-    
-def make_sparql_request(year):
+def Complete_query(year):
     def query_wikidata(query):
         url = "https://query.wikidata.org/sparql"
         r = requests.get(url, params={"format": "json", "query": query})
@@ -131,3 +85,6 @@ def make_sparql_request(year):
     )
 
     return data_dict
+
+
+print(Complete_query(2015))
