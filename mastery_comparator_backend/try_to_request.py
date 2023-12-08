@@ -83,8 +83,14 @@ def Complete_query(year):
         key=lambda x: x["accident"] * x["hdi"] / x["population"],
         reverse=True,
     )
+    new_data = {entry['country'].lower(): {
+    'hdi': entry['hdi'],
+    'accident': entry['accident'],
+    'population': entry['population'],
+    'year': entry['annee']
+    } for entry in data_dict}
 
-    return data_dict
+    return new_data
 
 
 print(Complete_query(2015))
