@@ -111,6 +111,8 @@ def make_sparql_request(year):
     # ---
 
     data_dict = {}
+    max_rate = 0
+    max_rate_adjusted = 0
     for row in wikidata_results["results"]["bindings"]:
         for result in data_results:
             if str(result[0]) == row["countryLabel"]["value"]:
@@ -121,20 +123,40 @@ def make_sparql_request(year):
                     "annee": int(str(result[2])),
                     "population": int(row["populationValue"]["value"]),
                 }
+                rate = (int(float(str(result[1]))) / int(row["populationValue"]["value"])) * 100000
+                adjusted_rate = rate / float(row["hdiValue"]["value"])
+                if rate > max_rate:
+                    max_rate = rate
+                if adjusted_rate > max_rate_adjusted:
+                    max_rate_adjusted = adjusted_rate
 
     data_dict = sorted(
         data_dict.values(),
         key=lambda x: x["accident"] * x["hdi"] / x["population"],
         reverse=True,
     )
-    print(data_dict)
     new_data = {entry['country'].lower(): {
     'hdi': entry['hdi'],
     'accident': entry['accident'],
     'population': entry['population'],
     'year': entry['annee'],
     'accidentRatePer100k': (entry['accident'] / entry['population']) * 100000,
-    'adjustedAccidentRate': ((entry['accident'] / entry['population']) * 100000) / entry['hdi']
+    'colorAccidentRatePer100k': get_color_for_accident_rate((entry['accident'] / entry['population']) * 100000, 0, max_rate),
+    'adjustedAccidentRate': ((entry['accident'] / entry['population']) * 100000) / entry['hdi'],
+    'colorAdjustedAccidentRate': get_color_for_accident_rate(((entry['accident'] / entry['population']) * 100000) / entry['hdi'], 0, max_rate_adjusted)
     } for entry in data_dict}
 
     return new_data
+
+
+def get_color_for_accident_rate(rate, min_rate, max_rate):
+    normalized_rate = (rate - min_rate) / (max_rate - min_rate)
+
+    green = (0, 128, 0)
+    red = (255, 0, 0)
+
+    r = green[0] + (red[0] - green[0]) * normalized_rate
+    g = green[1] + (red[1] - green[1]) * normalized_rate
+    b = green[2] + (red[2] - green[2]) * normalized_rate
+
+    return f'#{int(r):02x}{int(g):02x}{int(b):02x}'
