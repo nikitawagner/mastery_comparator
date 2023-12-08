@@ -117,8 +117,12 @@ def make_sparql_request(year):
         for result in data_results:
             if str(result[0]) == row["countryLabel"]["value"].replace(
                 "Kingdom of Denmark", "Denmark"
-            ).replace("Kingdom of the Netherlands", "Netherlands").replace(
-                "czech republic", "Czechia"
+            ).replace(
+                "Kingdom of the Netherlands", "Netherlands"
+            ).replace(
+                "Czech Republic", "Czechia"
+            ).replace(
+                "Republic of Ireland", "Ireland"
             ):
                 data_dict[row["countryLabel"]["value"]] = {
                     "country": row["countryLabel"]["value"],
