@@ -18,8 +18,9 @@ class Index:
         web.header('Access-Control-Allow-Origin', '*')  
         try:
             year = json.loads(web.data().decode("utf-8"))['year']
+            year = int(year)
             # check if year is an integer between 1999 and 2021
-            if not isinstance(year, int) or year < 1999 or year > 2021:
+            if year < 1999 or year > 2021:
                 web.ctx.status = '400 Bad Request'
                 return json.dumps({
                     "status": "error",
@@ -129,5 +130,12 @@ def make_sparql_request(year):
         key=lambda x: x["accident"] * x["hdi"] / x["population"],
         reverse=True,
     )
+    print(data_dict)
+    new_data = {entry['country'].lower(): {
+    'hdi': entry['hdi'],
+    'accident': entry['accident'],
+    'population': entry['population'],
+    'year': entry['annee']
+    } for entry in data_dict}
 
-    return data_dict
+    return new_data
