@@ -135,7 +135,9 @@ def make_sparql_request(year):
     'hdi': entry['hdi'],
     'accident': entry['accident'],
     'population': entry['population'],
-    'year': entry['annee']
+    'year': entry['annee'],
+    'accidentRatePer100k': (entry['accident'] / entry['population']) * 100000,
+    'adjustedAccidentRate': ((entry['accident'] / entry['population']) * 100000) / entry['hdi']
     } for entry in data_dict}
 
     return new_data
