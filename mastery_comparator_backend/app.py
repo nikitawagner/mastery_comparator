@@ -115,7 +115,11 @@ def make_sparql_request(year):
     max_rate_adjusted = 0
     for row in wikidata_results["results"]["bindings"]:
         for result in data_results:
-            if str(result[0]) == row["countryLabel"]["value"]:
+            if str(result[0]) == row["countryLabel"]["value"].replace(
+                "Kingdom of Denmark", "Denmark"
+            ).replace("Kingdom of the Netherlands", "Netherlands").replace(
+                "czech republic", "Czechia"
+            ):
                 data_dict[row["countryLabel"]["value"]] = {
                     "country": row["countryLabel"]["value"],
                     "hdi": float(row["hdiValue"]["value"]),
