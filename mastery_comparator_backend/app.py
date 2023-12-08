@@ -60,24 +60,21 @@ def make_sparql_request(year):
         """
     SELECT ?countryLabel ?hdiValue ?populationValue
     WHERE {
-    ?country wdt:P31 wd:Q3624078;  # Instance of country
-            wdt:P30 wd:Q46;        # Continent: Europe
-            p:P1081 ?statement;    # Statement for HDI property
-            p:P1082 ?statementPop.    # Statement for HDI property
+    ?country wdt:P31 wd:Q3624078;  
+            wdt:P30 wd:Q46;       
+            p:P1081 ?statement;   
+            wdt:P1082 ?populationValue.
 
     ?statement ps:P1081 ?hdiValue;
-                pq:P585 ?dateHDI.      # Date qualifier for HDI property
-    
-    ?statementPop ps:P1082 ?populationValue;
-                pq:P585 ?datePop. 
-    
-    FILTER ( YEAR(?dateHDI) = """
+                pq:P585 ?dateHDI.
+
+    FILTER (YEAR(?dateHDI) = """
         + str(year)
-        + """ && YEAR(?datePop) = YEAR(?dateHDI) ) 
-    
+        + """) 
+
     SERVICE wikibase:label { bd:serviceParam wikibase:language "en". }
     }
-    ORDER BY ?countryLabel ?date
+    ORDER BY ?countryLabel
     """
     )
 
