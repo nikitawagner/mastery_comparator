@@ -125,7 +125,15 @@ def make_sparql_request(year):
                 "Republic of Ireland", "Ireland"
             ):
                 data_dict[row["countryLabel"]["value"]] = {
-                    "country": row["countryLabel"]["value"],
+                    "country": row["countryLabel"]["value"].replace(
+                "Kingdom of Denmark", "Denmark"
+            ).replace(
+                "Kingdom of the Netherlands", "Netherlands"
+            ).replace(
+                "Czech Republic", "Czechia"
+            ).replace(
+                "Republic of Ireland", "Ireland"
+            ),
                     "hdi": float(row["hdiValue"]["value"]),
                     "accident": int(float(str(result[1]))),
                     "annee": int(str(result[2])),
