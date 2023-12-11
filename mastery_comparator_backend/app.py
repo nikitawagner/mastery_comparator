@@ -113,6 +113,8 @@ def make_sparql_request(year):
     data_dict = {}
     max_rate = 0
     max_rate_adjusted = 0
+    min_rate_hdi = 1
+    max_rate_hdi = 0
     for row in wikidata_results["results"]["bindings"]:
         for result in data_results:
             if str(result[0]) == row["countryLabel"]["value"].replace(
@@ -145,6 +147,10 @@ def make_sparql_request(year):
                     max_rate = rate
                 if adjusted_rate > max_rate_adjusted:
                     max_rate_adjusted = adjusted_rate
+                if float(row["hdiValue"]["value"]) < min_rate_hdi:
+                    min_rate_hdi = float(row["hdiValue"]["value"])
+                if float(row["hdiValue"]["value"]) > max_rate_hdi:
+                    max_rate_hdi = float(row["hdiValue"]["value"])
 
     data_dict = sorted(
         data_dict.values(),
@@ -153,6 +159,7 @@ def make_sparql_request(year):
     )
     new_data = {entry['country'].lower(): {
     'hdi': entry['hdi'],
+    'hdiColor': get_color_for_accident_rate(entry['hdi'], min_rate_hdi, max_rate_hdi, True),
     'accident': entry['accident'],
     'population': entry['population'],
     'year': entry['annee'],
@@ -165,11 +172,16 @@ def make_sparql_request(year):
     return new_data
 
 
-def get_color_for_accident_rate(rate, min_rate, max_rate):
+def get_color_for_accident_rate(rate, min_rate, max_rate, isHdi=False):
     normalized_rate = (rate - min_rate) / (max_rate - min_rate)
 
-    green = (0, 128, 0)
-    red = (255, 0, 0)
+    if not isHdi:
+        green = (0, 128, 0)
+        red = (255, 0, 0)
+    else:
+        green = (0, 128, 0)
+        red = (255, 0, 0)
+        normalized_rate = 1 - normalized_rate 
 
     r = green[0] + (red[0] - green[0]) * normalized_rate
     g = green[1] + (red[1] - green[1]) * normalized_rate
